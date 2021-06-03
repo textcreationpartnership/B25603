@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A confutation of infants baptisme, or an answer, to a treatice written by Georg Phillips, of Wattertowne in New England, in the defence of infants baptisme denying the true church to be formed by baptisme, and affirming it to be formed by a covenant acted by a company of believers, to become one, and anothers amongst themselves. Wherein, is plainely discovered that neither infants baptisme, nor yet such a covenant acted, can be Gods ordinance appointed by him for such end, as to constitute true visable churches: as also that baptisme of beleevers, and that only is Gods ordinance whereby true visible churches are rightly constituted and stated in their true being. By Thomas Lambe.</title>
+            <author>Lamb, Thomas, d. 1686.</author>
+         </titleStmt>
+         <extent>Approx. 144KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25603</idno><idno type="EEBO-CITATION">99829265</idno>
+  <idno type="VID">206958</idno>
+  <idno type="EEBO-PROQUEST">2264218846</idno>
+  
+            <idno type="STC">Wing L209_VARIANT</idno>
+            <idno type="PROQUEST">99829265</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829265e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206958)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1869:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A confutation of infants baptisme, or an answer, to a treatice written by Georg Phillips, of Wattertowne in New England, in the defence of infants baptisme denying the true church to be formed by baptisme, and affirming it to be formed by a covenant acted by a company of believers, to become one, and anothers amongst themselves. Wherein, is plainely discovered that neither infants baptisme, nor yet such a covenant acted, can be Gods ordinance appointed by him for such end, as to constitute true visable churches: as also that baptisme of beleevers, and that only is Gods ordinance whereby true visible churches are rightly constituted and stated in their true being. By Thomas Lambe.</title>
+                  <author>Lamb, Thomas, d. 1686.</author>
+               </titleStmt>
+               <extent>[8], 51, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Phillips, George.  A reply to "A confutation of some grounds for infants baptisme", which was published posthumously in 1645 - Cf DNB. Apparently Lamb had viewed a copy of it in 1643 -- Cf. p. [1] of text.</note>
+                  <note>Title page of "Infants baptising proved lawfull by the scriptures" is filmed at end.</note>
+                  <note>Reproduction of the original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Phillips, George, 1593-1644. --  Reply to a confutation of some grounds for infants baptisme.</term>
+               <term type="topical_term">Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206958:1"/>
+            <p>A CONFUTATION OF Infants Baptisme, Or an Answer, To a <hi>Treatice</hi> written by GEORG PHILLIPS, of <hi>Wattertowne</hi> in <hi>New England,</hi> in the defence of Infants BAPTISME, denying the true Church to be formed by <hi>Baptisme,</hi> and affirming it to be for<g ref="char:EOLhyphen"/>med by a Covenant acted by a company of belie<g ref="char:EOLhyphen"/>vers, to become one, and anothers amongst themselves.</p>
+            <p>WHEREIN, Is plainely discovered that neither Infants <hi>Baptisme,</hi> nor yet such a covenant acted, can be Gods ordinance appointed by him for any such end, as to constitute true visable Churches:</p>
+            <p>As also that <hi>Baptisme</hi> of beleevers, and that only is Gods or<g ref="char:EOLhyphen"/>dinance whereby true visible Churches are rightly consti<g ref="char:EOLhyphen"/>tuted and st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir true being.</p>
+            <p>By THOMAS LAMBE.</p>
+            <q>Then sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Peter</hi> repent and be baptised every one of you in the name of Christ, for the remissi<g ref="char:EOLhyphen"/>on of sinnes, and y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll receive the gift of the holy Ghost, <bibl>
+                  <hi>Act. 2.38.</hi>
+               </bibl>
+            </q>
+            <q>He that beleeveth and is baptised shall be saved, <bibl>
+                  <hi>Mar. 16.16.</hi>
+               </bibl>
+            </q>
+            <q>Then they that g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adly received his word were baptised, and the same day there were added to the Church three thousand soules. <bibl>
+                  <hi>Act. 2.41.</hi>
+               </bibl>
+            </q>
+            <q>And as soone as they beleived <hi>Philip</hi> preaching the things concerning the Kingdome of God, and the name of Iesus, they w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re baptised both men and women, <bibl>
+                  <hi>Act. 8.12.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the yeare, 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:206958:2"/>
+            <pb facs="tcp:206958:2"/>
+            <head>TO THE Vnpartiall Reader, that desireth truth in the love of it, Grace and Peace be multiplyed in this life with Salvation, and happinesse in the life to come through JESVS CHRIST.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S Religion is the meanes of Gods glory and mans happines, so ought it to he the principall care, study &amp; endeavour of all how to exercise themselvs ther<g ref="char:EOLhyphen"/>in, so as they may accomplish the proposed end; but as all things that are excellent in nature have their like; which evill minded men doe many times make use of, to deceive, cozen and cheate with the false colourable shew, which these things have with those that are more excellent; even so religion which is the most excellent weans in the world, tending to the most excellent end of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; <hi>(viz.)</hi> the glory of the great God, and the eternall salvation of soule and body at the day of judgement, is not without the like false colorable shew, wherwith Satan &amp; his ministers doe deceive, cheate, and cozen poore soules, and hereof it comes to passe, that men doe after a certaine manner take chaffe for wheat, drosse for Gold, errour for truth, mans devises for Gods pure Ordi<g ref="char:EOLhyphen"/>nances; and as errour in every subject is dangerous, according to the nature of every Subject about which it is conversant so in religi<g ref="char:EOLhyphen"/>on is most dangerous, it being a subject of the greatest consequence that can be: because as it is a meanes of Gods gl ry and our salva<g ref="char:EOLhyphen"/>tion, so it must bee a true meanes tending to the accomplishment of the proposed end, or otherwise we shall not only misse the end propos<g ref="char:EOLhyphen"/>ed,
+<pb facs="tcp:206958:3"/> but shall effect a quite contrary end, <hi>viz.</hi>) the dishonour of God, and the damnation of our selves, even by the Religion which we ob<g ref="char:EOLhyphen"/>serve; yea although we be never so zealous in it, and therefore it is of speciall concernment, that we take heed that the Religion which we doe observe be Gods appointment by his revealed word, it being his prerogative, to be author, institutor, framer, and appointer of all that service, which he will have men to performe unto h m: and the reason is because Gods glory and mans happinesse is so united toge<g ref="char:EOLhyphen"/>ther, as the one is not without the other atainable by man, but only as man is led and guided by God in the use of such meanes as he hath appointed in his word; and for so much as Gods word doth set forth Christ to be the Mediatour, and principall meanes that God hath in wisedome and mercy appointed to glorifie hims<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lfe in the salva<g ref="char:EOLhyphen"/>tion of man by; and all other meanes exercised in Religion, to bee used only in subordination to him, to the working of us unto faith in him, and the increase of the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me; Hence these conclusions f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llow;</p>
+            <p>First, That no action of Religion performed, though it be the thing that is expressely commanded, pleaseth God for it selfe.</p>
+            <p>Secondly, God require<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h no action of Religion, to be performed without faith in the performer or subiect of the action.</p>
+            <p>Thirdly that God requireth that persons be first taught to believe in Christ, as in an alsufficient meanes of glorifying Gods grace in our salvation.</p>
+            <p>Fourtly, that every action of Religion be performed in the name, power, authority and Comm ssion of <hi>Jesus Christ.</hi>
+            </p>
+            <p>Fiftly, that every action of Religion be performed by vertue of the grace of <hi>Christ,</hi> received by faith, <hi>for whatso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver is not of Faith is sin, and without Faith it is impossible to please God.</hi>
+            </p>
+            <p>Sixtly, that every action of Religion should teach us the infirmi<g ref="char:EOLhyphen"/>ty of our faith.</p>
+            <p>Seaventhly, that every action of Religion should be exercised as a meanes to strengthen our faith.</p>
+            <pb facs="tcp:206958:3"/>
+            <p>Eightly, that when actions of Religion are performed, and the performers have no faith in <hi>Christ,</hi> those actions are meanes to har<g ref="char:EOLhyphen"/>den the heart against <hi>Christ.</hi>
+            </p>
+            <p>Ninthly, no action of Religion ought to be performed by any man, no not by the faithfull themselves, if <hi>Christ</hi> be not by the dire<g ref="char:EOLhyphen"/>ction of his word the body (or rather the soule) of that action;</p>
+            <p>And the reason of all this is, because the end measures the meanes, and all the actions of Religion, being but meanes of setting forth of <hi>Christ Jesus,</hi> the Sonne of God to be the true meanes and media<g ref="char:EOLhyphen"/>tour betweene God and man, that God doth glorifie himselfe in the salvation of man by, and this b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the proper end why all the acti<g ref="char:EOLhyphen"/>ons of Religion are to be performed: namely, to cause our understan<g ref="char:EOLhyphen"/>dings to see, know, and acknowledge the glory of Gods grace, shining through that his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onne.</p>
+            <p>And h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reupon t is that the Order which <hi>Jesus Christ</hi> the Son of God, and great Prophet of his Church, hath prescribed to effect Religion in the hearts and lives of men is this: that persons should be first taug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t by the powerfull preaching of the Gospell, and glad tidings of grace and salvation, which by him is appointed to be preached to all Nations, or to every creature, that thereby all per<g ref="char:EOLhyphen"/>sons being borne in sinne and heires of death, might bee converted and borne againe by the Doctrine of grace, and made heires of eter<g ref="char:EOLhyphen"/>nall life, and when they believe and make profession of faith, then and not before to be baptised upon such profession of faith, made in the name of the Father, who hath adopted them to be his children in the name of the Sonne, by whom they are reconciled, in the name of the Holy Ghost, by whom they are regenerated into the faith which they make prof<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssion of: the end is, that thereby as by a Livery or badge, they may be distinguished to belong to the Church of <hi>Jesus Christ,</hi> who hath betrusted them with all his d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vine, and spirituall Ordinances, as Election of Ministers from amongst themselves, together with all divine administration, as a people ca<g ref="char:EOLhyphen"/>pable
+<pb facs="tcp:206958:4"/> thereof, and hath promised his presence with them, and his blessing upon them in the same, for the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dification preservation, and finall perseverance in the faith of the same <hi>Gospell</hi> of grace, even the salvation of their soules, and thus by the direction of <hi>Christ:</hi> true Religion is seated in the World as the true meanes of <hi>Gods</hi> glo<g ref="char:EOLhyphen"/>ry and mans happinesse. Now Satan the Prince of darkn sse, as he is the Enemy of mankind, and seekes his destruction to the dishonour of <hi>God,</hi> so doth he labour in no meanes more than in the counterfeiting of Religion, which that he might the bet<g ref="char:EOLhyphen"/>ter effect the same: doth transforme himself into an Angell of light, and by his Ministers as though they were the ministers of righteous<g ref="char:EOLhyphen"/>nes, or of <hi>Christ,</hi> p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etend that Religion doth not thrive fast <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nough, nor members increase to the church so fast as they would have them: have therefore by their device perswaded people that as children were circumcised, so children of baptised persons ought to be bapti<g ref="char:EOLhyphen"/>zed of the eight day, or at least betimes, and by these meanes have they made the Church very great, though it be not very good for they have made and compelled whole Nations, yea all to be outwardly religious, and whosoever would not be one with them in this their Religion, must neither buy nor sell, nor injoy bodily comforts while they live, and when they die must not be buried in the Christian bu<g ref="char:EOLhyphen"/>riall: and left this Church thus stated, (although uncapable of all divine administrations in the true service and worship of <hi>God</hi>) should be left without all Religion, having none in their hearts; (I speake of the Church in relation to the constitution of it, consisting of baptised Infants, meere naturalists in which converts are meere accidents, and appertaine nothing to the nature of that Church state, which is of it self compleat without them) Satan by the Ministery of Antichrist hath devised a Liturgy, Masse, or Service-Booke, which doth direct them where, when, how to pray, and what to pray for ha<g ref="char:EOLhyphen"/>ving provided prayers ready made for them for all occasions, which bath been thought necessary: and likewise all other services are not
+<pb facs="tcp:206958:4"/> only there directed but therein provided, and ordered to be perform<g ref="char:EOLhyphen"/>ed at all times for the whole service of the Church, which therefore is called Divine Service, (although there be nothing but humanity or worse in it) the performance of which as it may be without any faith, or spirituall gift, or grace from <hi>God</hi> be compleatly done, and therefore fit for such a Church, so have all manner of persons in the Nation been compelled with great penall Lawes to be frequent at such service as if it had bin the only true holy spirituall service and worship of <hi>God:</hi> and yet all this while this is divine service only in name and not indeed; as the Church is a Church of <hi>Christ</hi> in name, but not indeed and in truth as they have the Baptisme of <hi>Christ</hi> in name but not in deed and in truth, and thereupon are these Christi<g ref="char:EOLhyphen"/>ans in name but not in deed and truth, and so all Religion is only nominall not reall, having great shew but no substance, a pitifull condition and to be bewayled and greatly lamented, and the cause of all this is Infants Baptisme, and the reason is evident, if we do not willingly shut our eyes against the manifest light, for wheresoever Religion is exercised upon persons, before they are taught to be<g ref="char:EOLhyphen"/>lieve in <hi>Christ,</hi> the errour is as it were in the center which proves infinite in the circumference, and wanting religion in the heart: first all what ever is done is but vanity, hypocrisie, a shadow without a substance, a body without a soule, a shell without a kernell, a name without the nature of the thing, the consideration of all, which mise<g ref="char:EOLhyphen"/>rable witchery and delusion I being greatly affected with, &amp; concei<g ref="char:EOLhyphen"/>ving these insuing lines which cost me much labour, to be profitable for the discovery of the same, in some measure thought it not meet to let them lie in obscurity, while I cōceived others <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o have much need of them, &amp; many of my deare friends did earnestly desire them the gra<g ref="char:EOLhyphen"/>tification, whereof I could not with modesty and reason tell how to deny, and being privy to my owne sincerity, that I had no base or by end: and last of all, and most of all bei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g affected with the glo<g ref="char:EOLhyphen"/>ry of the great GOD, and the salvation of the soules of
+<pb facs="tcp:206958:5"/> men which is the best end of all, and knowing true Religion to be the direct meanes, and false Religion to be the greatest hinderance or contradiction thereunto, of which these ensueing lines are the pro<g ref="char:EOLhyphen"/>per Subject; I have in the goodnes of my cause adventured to put them forth to publike view, resolving to abide the hazard what ever can come unto me for the same being confident of these two conclusi<g ref="char:EOLhyphen"/>ons: first that if any shall be offended at it without a cause, there can come no hurt to me by it, for whatsoever hurt is done to any person for well doing hurts the doer, but not the person to whom the hurt is done, because they doe but kick against pricks, and persecure <hi>Christ</hi> in his members, and <hi>Christs</hi> members in such a case save his life e<g ref="char:EOLhyphen"/>ven in losing of it. Secondly, if any shall be offended at it with just cause, reason it self binds them to shew the same, and that shall be for my benefit also, because therby I may come to see mine own infirmity, while I have time to mend it, and to get greater strength, which is the greatest benefit of all, having a mind aswell to see and heare from others, as to speak my selfe, knowing that he can never be a good teacher that is not a good learner: Courteous <hi>Reader</hi> therefore whosoever thou art let me intreat thee to read over this Booke, with an impartiall eye try it, and search it narrowly. and if good come to thee by it let God have the glory of it, if any thing be evill, let me have thy loving admonition in that particular, and in so doing thou shalt performe a good Office of love to the truth, and to me also, but as my whole intention is in it to set forth the truth so am I not privy of any thing impertinent to that purpose, and if thou upon search shalt finde it so, and shalt profit by it to thy saving instruction, and soules health, I shall have my desire and ever rest,</p>
+            <closer>
+               <signed>Thine in the Lord, THOMAS LAMBE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206958:5"/>
+            <head>A CONFUTATION OF INFANTS BAPTISME,</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as by the providence of our good and gracious God, there hath come a writing unto my hands, which containeth some Arguments for the defence of <hi>Infants Baptisme,</hi> written by one <hi>George Phillips,</hi> bearing the name of Pastor, of the Church of <hi>Watertowne</hi> in <hi>New England,</hi> as the same writing doth expresse. I shall endeavour therefore briefly and plainely, as God shall enable me to make answer thereunto, and first this Author Master <hi>Phillips</hi> before he comes to the Ar<g ref="char:EOLhyphen"/>guments, doth set downe certaine propositions to make way, as he saith, for the better understanding of his reasons, and the first is this,</p>
+            <p n="1">1. <hi>That the Scriptures containing the old and new Testament, are full of satisfaction, and are a most perfect rule of all things concerning faith and Order: so that in these respects nothing is to be urged as necessarie, or allowed as lawfull but what is justly contained therein;</hi>
+            </p>
+            <p>
+               <hi>Answer.</hi> This Proposition is holy just and good, the second followes.</p>
+            <p>
+               <hi>Whatsoever can by just consequence be drawne from any part of Scrip<g ref="char:EOLhyphen"/>ture, expounded in their largest extent, is truly contained in them, aswell as that which is set downe in expresse tearmes, and so it is of the same
+<pb n="2" facs="tcp:206958:6"/> force with that expressed in any case: so whatsoever can be collected by true deduction from a commandement is commanded, as well as that which is expressed, else how could all our duties to God and man be contained in the ten words, or how could any duty bind but that which is expressed? so our Saviour,</hi> Mat. 4.10. <hi>urgeth the Divell with this word only, which is not in the text expressed in</hi> Deut. <hi>but yet truly drawne from thence.</hi>
+            </p>
+            <p>
+               <hi>Answer.</hi> I see no inconvenience in this proposition neither, in the third which followes.</p>
+            <p>
+               <hi>That the tender of immortality and happines by God unto mankind, hath, beene dispensed two wayes, first unto</hi> Adam <hi>and all mankind in his loynes by the Law upon condition of perf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct obedience thereto in mans owne per<g ref="char:EOLhyphen"/>sonall righteousnesse:</hi> 2. <hi>After</hi> Adam <hi>was falne by an Evangelicall Co<g ref="char:EOLhyphen"/>venant made with the second</hi> Adam, <hi>the Lord from Heaven and all the Elect predestinated unto adoption of Sonship, in him, as the common root of them all: which (meaning the Covenant though it be one and the same for ever in substance, from the time of the first promulgation untill this day, and so to the end, yet it hath admitted of variation in the cir<g ref="char:EOLhyphen"/>cumstance thereof, as is cleare from foure severall and remarkable peri<g ref="char:EOLhyphen"/>ods: the first from</hi> Adam <hi>faln to</hi> Abraham, <hi>under a promise of the seed of the Woman,</hi> Gen. 3.15.</p>
+            <p>
+               <hi>The second from</hi> Abrahams <hi>time to</hi> Moses <hi>in the wildernesse, in sub<g ref="char:EOLhyphen"/>stance the same with the former, the seed of the woman, to proceed from</hi> Abrahams <hi>loynes in the flesh successively, but differing from the former, in passing the promise into a solemne spirituall Covenant made with</hi> Abra<g ref="char:EOLhyphen"/>ham, <hi>as the Father of all the blessed, and all blessing seed, and of all belie<g ref="char:EOLhyphen"/>vers of all Nations, and confirmed by the signe of Circumcistion, the seale of the righteousnesse of faith, which he had being yet uncircumcised.</hi>
+            </p>
+            <p>
+               <hi>The third from</hi> Moses <hi>till the time of Christs comming in the flesh, and this is the same in substance with the former, but differing the manner of dispencing in drawing a vaile of shadows over it, consisting of all those Lawes written in stone, and all those Ordinances divulged from Mount</hi> Sinai, <hi>unto Abrahams posterity in the flesh, whereunto was added be<g ref="char:EOLhyphen"/>sides the former seale of circumcision, the Ordinance of the Passeover, and this (and not the former period) was called the Old Testament, or Law ratified by the death and bloud of Bulls and Goates, &amp;c. and shad<g ref="char:EOLhyphen"/>dowes of better things without the application whereof, they purified only the flesh, and not the conscience.</hi>
+            </p>
+            <p>
+               <hi>The fourth begins, when the Sonne of God was manifested in the flesh</hi>
+               <pb n="3" facs="tcp:206958:6"/>
+               <hi>and still continues, called the new Testament and ratified by the bloud and death of the Lord Iesus the Testator, who being come, the vaile of shaddowes is utterly removed, and the Mosaicall administration quite a<g ref="char:EOLhyphen"/>bolished: the Old being done away that the New might bee esta<g ref="char:EOLhyphen"/>blished that cannot bee removed, and this is well to be heeded, that all the Scriptures in the Old Testament, that foretell a removall, and disanul<g ref="char:EOLhyphen"/>ling of the Covenant, and the Scriptures in the new that tell of the abo<g ref="char:EOLhyphen"/>lishing that was foretold, as also the making of a new Covenant is to bee understood of that period from</hi> Moses <hi>to Christ, and not of that of</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>to</hi> Moses, <hi>and the opposition that is made in the Scripture, is be<g ref="char:EOLhyphen"/>tweene that of</hi> Moses, <hi>and this under Christ.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> To this proposition I have many exceptions against the same, and though you professe your selfe to be a Pastor, yet you must give me leave to tell you, that such Doctrine as this doth declare that such a name doth not (or very ill) agree unto you in that it is not wholsome food, for Christs sheep but a bar<g ref="char:EOLhyphen"/>ren wildernesse or rather hurtfull, and effecting noysome dis<g ref="char:EOLhyphen"/>eases tending to death.</p>
+            <p>First therefore if you limit the Reprobates from the tender of immortality and happines from God by means of the second <hi>Adam,</hi> I conceive you erre, because then how can they be said to refuse the call of <hi>God, Prov.</hi> r. 24, and put away the word of God from them, thereby judging themselves unworthy of eve<g ref="char:EOLhyphen"/>lasting life, <hi>Acts</hi> 13.46? or make God a lyar. 1. <hi>Iohn</hi> 5.11. or how should unbeliefe be a sinne, <hi>Iohn</hi> 16.9.? but this by the way.</p>
+            <p>Secondly to your third period, I say the ordinances deliverd in <hi>Moses</hi> time, was not a vayle simply considered but in respect that <hi>Christ</hi> which was contained in them was not understood by the Jewes, which rested in the deed done.</p>
+            <p>Thirdly, to your third period, whereas you say, that this (and not that in the former period) was called the <hi>Old Testament,</hi> I know no reason why you should so conclude especially the ra<g ref="char:EOLhyphen"/>ther seeing you make all your foure periods, to proceed from the Evangelicall Covenant, only varying in circumstances, which if it be so, I conceive you will find no other difference between <hi>Old Testament</hi> and <hi>New</hi> properly: but the time b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore the com<g ref="char:EOLhyphen"/>ming of Christ in the flesh and the time since: for <hi>Abell, No<g ref="char:EOLhyphen"/>ah</hi> and <hi>Iacob,</hi> offered sacrifice as well as the Israelites did and
+<pb n="4" facs="tcp:206958:7"/> God did never appoint the ten Commandements, nor the Or<g ref="char:EOLhyphen"/>dinances administred by the Leviticall Priesthood, to the end, that the performers should be saved without faith in Christ, and this you say that they were shadowes of better things, without the application whereof they purified only the flesh and not the conscience: and the sacrifices of <hi>Abell, Noah, Abraham,</hi> and <hi>Iacob,</hi> (and Circumcision as well as the Passeover) were shadowes of better things, without the application whereof, they purified only the flesh, and not the conscience of him that did the ser<g ref="char:EOLhyphen"/>vice: therefore both those two periods were as well the <hi>Old Te<g ref="char:EOLhyphen"/>stament</hi> as the other, by your owne Argument.</p>
+            <p>And therefore to your fourth period, which you say, begins when the Son of God was manifested in the flesh, and still con<g ref="char:EOLhyphen"/>tinues, called the new <hi>Testament,</hi> and ratified by the death and bloud of the Lord Iesus the Testator, who being come, the vaile of shaddowes is utterly removed: I would aske whether circum<g ref="char:EOLhyphen"/>cision, and the sacrifices that were administred before <hi>Moses</hi> time, be not quite abolished (the Old being done away that the New might be established (which cannot be removed) as well as those in <hi>Moses</hi> time; thirdly if yea: then this is well to be heeded, that all the Scriptures in the <hi>Old Testament</hi> that foretell a removall, and disanulling of the Covenant, and the Scriptures in the New, that tell of the abolishing that was foretold, as also of the making a new Covenant is to be understood, as well of the whole time before the comming of Christ, as of that be<g ref="char:EOLhyphen"/>tweene <hi>Moses</hi> and Christ, and thus is your proposition answerd and refuted.</p>
+            <p>
+               <hi>Your fourth proposition is this, that children are capable of the Spirit of God, and of the grace of the Covenant, and whatsoever men of years are capable of, though not wrought in the same way and by the same meanes, yet the same things, and by the same spirit so farre as is necessa<g ref="char:EOLhyphen"/>ry to union with Christ, and justification to life thereby.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> This I grant, as they are Subjects for God to work up<g ref="char:EOLhyphen"/>on, but this is not manifested to us, neither can it be concluded by us to belong to this child more than to that or the children of beleevers, more than to the children of Infidells, or unbe<g ref="char:EOLhyphen"/>lievers, &amp;c.</p>
+            <p>And where it is said, <hi>nor is the Iudgement we can have of men of
+<pb n="5" facs="tcp:206958:7"/> yeares infallible, but that we may be mistaken, as in the case of</hi> Symon Magus &amp;c.</p>
+            <p>
+               <hi>Answ.</hi> I answer, it doth not follow from hence, that we should have no Judgement of them, because we cannot have an infal<g ref="char:EOLhyphen"/>lible Judgement; now if it be concluded that we ought to judge probably, according to the profession of Faith made by them: I aske then how we shall come to the same manifestation from <hi>Infants:</hi> which when we can, let them be baptised, for if we should doe it before, we do not only walke without rule, but also it may be said to us in this case, as Christ said to the wo<g ref="char:EOLhyphen"/>man of <hi>Samaria</hi> in another case, <hi>Ioh.</hi> 4.22. <hi>Ye worship that which ye know not;</hi> and as God said to the J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wes, <hi>Isa.</hi> 1.12. <hi>Who required this at your hands?</hi>
+            </p>
+            <p>The fifth Proposition followes,</p>
+            <p>That <hi>Baptisme is not the first grace but a second, nor doth it confer grace, but is given to confirme th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> former, which therefore must be presupposed, or else not to be administred; and it is the seale of the</hi> New Testament, <hi>or of the righteousnesse of. Faith now to all, that are partakers thereof, as of old Circumcision, was to them</hi> Rom. 4.11. <hi>only by</hi> baptisme <hi>I un<g ref="char:EOLhyphen"/>derstand that outward part, administred by a lawfull Minister of the Church which may, and too often is separated from the inward (though it ought not to be) and yet remaines true</hi> baptisme <hi>so administred, else</hi> Symon Magus, <hi>and those false brethren,</hi> Gal. 2 <hi>being not baptised with the inward were not baptised: and if they had repented must have beene baptised a new.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> To this I answer, that <hi>baptisme</hi> (being not the first grace but a second, as your selfe confesse, nor doth it conferre grace, but is given to confirme the former, which therefore must be presupposed or else not to be administred: is well to be heeded of all: but especially of those which will have <hi>Infants</hi> baptised: and yet have no ground to conclude, that they have a first grace to be confirmed by that meanes; neither have they ground for any such presupposition; neither will, <hi>Rom.</hi> 4.11. prove any such thing; for that only proves that circumcision was in the nature of it, a seale of the righteousnesse which is by faith and did seale it up to <hi>Abraham</hi> that had faith: but as it did not seale it to them that had no faith: so no more was it any ground why we should presuppose faith formerly in all the subjects, upon
+<pb n="6" facs="tcp:206958:8"/> whom it was administred; neither was that the ground why it was administred; but the command of God, and the reason why God commanded it to <hi>Abraham</hi> touching his seed, was not because <hi>Abraham</hi> was bound to believe and presuppose, that all his Seed, and his Seeds Seed, throughout their Generations, were made partakers of Union with <hi>Christ,</hi> and Justification to life by the Spirit of God, (as is insinuated in the connexion of the fourth and fifth Propositions) but that God did by this meanes take and distinguish the posterity of <hi>Abraham</hi> to be pos<g ref="char:EOLhyphen"/>sessed by his favour and goodwill of Lawes and Ordinances, Mi<g ref="char:EOLhyphen"/>nisters Services, Sacrifices, Tabernacle and Temple, and all o<g ref="char:EOLhyphen"/>ther things which were meanes to typifie, lead and point out to them Christ which was to come: which was a choyce favour beyond any that was bestowed upon any other Nation or Peo<g ref="char:EOLhyphen"/>ple: besides, <hi>Deut.</hi> 7.6.7, 8, 9. <hi>Rom.</hi> 9.4, 5. <hi>Psal.</hi> 147.19, 20. and this was the end why the seed were required to be circumcised at eight dayes old, that they being distinguished by this meanes, and thereby interessed into the participation of these Priviled<g ref="char:EOLhyphen"/>ges, <hi>Rom.</hi> 3.1, 2. might be trained up therein; and whosoever else of any other Nation would circumcise themselves and their Males, might come and be partakers of these Priviledges with the posterity of <hi>Abraham, Exod.</hi> 12 48. though there were no ground to presuppose a first grace to be confirmed in them by Circumcision.</p>
+            <p>Secondly, I answ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r (to the limitation of your conception to the outward part of Baptisme, which may and too oft is admi<g ref="char:EOLhyphen"/>nistred, separated from the inward, though i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ought not to be) which yet remaines true Baptisme so administred or else <hi>Simon M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gus</hi> and those false brethren, <hi>Gal.</hi> 2. being not baptised wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the inward, were not baptised, and if they had repented, must have beene baptised anew;) that there is a great difference to be put betweene false brethren and no brethren, because those which are false seeme to be true but those that are no brethren, not so much as in shew, there is not so much as a shew for any brotherly action to be exercised upon them; and the reason why it remains true Baptisme u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on the one which mak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s shew, and not upon the other which makes no shew is because Gods authority in his command goes with the one and not with the
+<pb n="7" facs="tcp:206958:8"/> other; and this appeares, because Baptisme being an action of Religion to be exercised by the ministery of men, it is required that they administer the same upon beleevers, which if they ap<g ref="char:EOLhyphen"/>peare, so they are to judge, and who can judge no otherwise but by appearance, it being Gods Prerogative to search the heart; but when there is no externall manifestation appearing from the subject. then if Baptisme be administred, it is meer humane invention because there is no authority of God for such an Ad<g ref="char:EOLhyphen"/>ministration: now, it is the Authority or command or God, which gives a being to every administration in Religion; and whatsoever hath not a being from God cannot be called his Or<g ref="char:EOLhyphen"/>dinance; hereupon it followeth that whensoever Baptisme is administred upon such a subject as maketh no externall manife<g ref="char:EOLhyphen"/>station of Faith, this Baptisme hath no being from God, but is an humane device.</p>
+            <p>
+               <hi>Your</hi> 6. <hi>Proposition is this, that as of old more was required of</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>and men of yeares when they were circumcised, then of</hi> Ishmael <hi>or</hi> Isaac, <hi>or other Infants continually circumcised afterwards; so now in ad<g ref="char:EOLhyphen"/>ministring Baptisme to persons, more is required of men of yeares then of infants; as of</hi> Abraham <hi>God required Faith, in the blessed seed; but not the same of</hi> Isaac; <hi>for of men of yeares Faith is to be required, and must be, that a man may be baptised; but not the same of Infants, &amp;c.</hi>
+            </p>
+            <p>To which I answer, that more was in <hi>Abraham</hi> then in <hi>Isaac,</hi> when they were circumcised; I grant, but that more was requi<g ref="char:EOLhyphen"/>red in the one then in the other, without which he might not be circumcised, is easilier said then proved, in the 17. of <hi>Genesis,</hi> 10. and 13. verse, it is said, that <hi>Abraham</hi> must circumcise all the males which were borne in his house, or bought with his money, and verse 23. it is said, that <hi>Abraham</hi> tooke <hi>Ishmael</hi> his sonne which was then 13. yeares old, verse 25. and all the Males in his house, and circumcised them the same day as God had said; some were men of yeares, as verse 27. yet God did not re<g ref="char:EOLhyphen"/>quire of <hi>Abraham</hi> concerning his males, nor did <hi>Abraham</hi> re<g ref="char:EOLhyphen"/>quire of them in relation to any rule preceding any prerequisite conditions, without which they were not to be circumcised; the contrary is more probable by farre: namely, that they were to be circumcised, is absolutely commanded, and they were in no wise to neglect the same, and so to doe were sinfull, but that
+<pb n="8" facs="tcp:206958:9"/> prerequisite conditions in them, without which they were not to be circumcised is not so much as intimated to be appointed.</p>
+            <p>In <hi>Exod.</hi> 12.48. it is said, if any will observe the Passeover, Circumcision of all his males is required to proceed as a generall Law to the home-borne and to the stranger, but to the partici<g ref="char:EOLhyphen"/>pation of Circumcision of himselfe, and all his males also, no<g ref="char:EOLhyphen"/>thing is required to precede. Now in the new Testament there is a Ministery ordained of God for the ministration of <hi>Baptisme;</hi> but in the time of the law there was no ministery appointed for Circumcision, but the head of every Family only stood charg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with that worke to see the accomplishment thereof.</p>
+            <p>And hereof came another difference, that in Baptisme there is a lett spoken of, as <hi>Act.</hi> 8.36.10.47. that if Faith did not ap<g ref="char:EOLhyphen"/>peare at least externally to the Minister, he might not admini<g ref="char:EOLhyphen"/>ster Baptisme: but in Circumcision, any man might circum<g ref="char:EOLhyphen"/>cise himselfe and his males, and thereby become a Proselyte, without any fore-going condition; because there was no order or state of men appointed by God to require any such thing of him before; and therefore in that respect, no lett spoken of in Scripture.</p>
+            <p>But the maine difference appeares in that God n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver appoin<g ref="char:EOLhyphen"/>ted a teaching Ministery to precede Circumcision to the Par<g ref="char:EOLhyphen"/>ties required to be circumcised, as now he hath to all the Par<g ref="char:EOLhyphen"/>ties required to be baptised, even from that time to the end of the World <hi>Mat.</hi> 28.18, 19. and hereupon ariseth another diffe<g ref="char:EOLhyphen"/>rence, even in the Constitution of the true visible Church, which then was constituted by naturall generation of <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>brah<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms</hi> naturall seed, but now is constituted by spirituall regeneration of <hi>Abrahams</hi> spirituall seed, by the means of the preaching of the Gospel, ev n called Saints at least so far as men can judge, as all the Epistles of <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul</hi> to the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hurches</hi> do plainly prove; and by all this is your insinuation of the Baptisme of Infants tak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n away.</p>
+            <p>Further, I cannot but take notice of a contradiction between this Proposition and your fifth Proposition<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in which you say Faith or a first grace must be presupposed, or else Bap isme not to be administred: but here you say that of men of yeares saith is to be required; and must be, that a man may be baptised but not the same of Infants; how you will reconcile this contra<g ref="char:EOLhyphen"/>diction,
+<pb n="9" facs="tcp:206958:9"/> I doe not yet conceive; if you will say that grace may be though not knowne in Infants but in men of yeares, that are able to manifest what is in them; such manifestation is to be required from them, without which they are not to be baptised: I say that this is no reconciliation of the contradiction; for as grace may be in Infants, and not knowne, so it may not be, as it is not knowne to be, but you say Baptisme is given to confirme the former grace, which therefore must be presupposed, or else not be administred; and here you say, that of men of yeares Faith is to be required and must be, that a man may be bapti<g ref="char:EOLhyphen"/>sed; but not the same of Infants: now whatsoever is to be pre<g ref="char:EOLhyphen"/>supposed, must be, and must be required to be, or else baptisme not to be administred, and yet the same not required to be in In<g ref="char:EOLhyphen"/>fants, and yet Infants to be baptised, is an apparant contradicti<g ref="char:EOLhyphen"/>on, because whatsoever is not to be required to be in Parties to be baptised, is not to be presupposed to be, or else baptisme not to be administred. And thus have I made Answer to your sixth Proposition; and now I come to your Arguments, the first whereof is this.</p>
+            <p>
+               <hi>If the Covenant now vnder Christ be the same that wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>and his Posterity in the Flesh; then as Infants were then partakers of the Covenant, and received the Seale thereof, Circumcision; so are In<g ref="char:EOLhyphen"/>fants partakers of the Covenant, and ought to receive the Seale thereof, Baptisme.</hi>
+            </p>
+            <p>
+               <hi>But the Covenant now under Christ is the same that was before Christ, with</hi> Abraham <hi>and his posterity in the flesh;</hi> Ergo,</p>
+            <p>To which I answere, denying your Antecedent; namely that the Covenant now under Christ is the same that was before Christ with <hi>Abraham</hi> and his posterity in the Flesh, and for the clearing up of my grounds of this Answer, I desire to shew con<g ref="char:EOLhyphen"/>cerning this Covenant made with <hi>Abraham</hi> in <hi>Gen.</hi> 17.7. first, what it was not; secondly, what it was; thirdly, that we have no such Covenant now in the time since Christs comming in the flesh concerning our seed.</p>
+            <p>First therfore God did never promise to save any of <hi>Abrahams</hi> children for <hi>Abrahams</hi> sake: secondly, nor yet for his faiths sake; thirdly, nor to make all his Posterity in the flesh to be Believer. First therefore <hi>Abraham</hi> was an heire of sinne and death, as all
+<pb n="10" facs="tcp:206958:10"/> other men are, and was saved through the Mediator, <hi>Joh.</hi> 8.56. <hi>Heb.</hi> 11.13. <hi>Rom.</hi> 4.1.2. <hi>Gal.</hi> 3.6. therefore <hi>Abrahams</hi> person did not move God to save his children who was saved by the undeserved grace and mercy of God through the Mediator himselfe.</p>
+            <p>Secondly, not for his faiths sake: first, because faith is not a meriting thing, it being that by which a man believes the fa<g ref="char:EOLhyphen"/>vour of God in Christ; secondly, because if it were, then Christs Doctrine would prove false <hi>Joh.</hi> 3.3. verily, verily saith Christ, <hi>Except a man be borne againe, he cannot see the Kingdome of God;</hi> third<g ref="char:EOLhyphen"/>ly, if it were so, then God should save some, the salvation of whom would bring no glory to God at all: and the reason is, if any should be saved that have no faith in their owne hearts, on<g ref="char:EOLhyphen"/>ly because their Parents have believed for them: then it will follow that some should be saved which neither know their own misery, nor Gods mercy, nor wisedome, nor power, nor justice, nor goodnesse; and so consequently know not how to be thank<g ref="char:EOLhyphen"/>full for any benefit, seeing they know none, which is contrary to the end for which he saveth men, which is the praise of his owne name: besides, this is further proved by these Texts of Scripture, <hi>Hab.</hi> 2.4. The just shall live by his Faith, <hi>Gal.</hi> 6.5. Every man shall beare his own burthen, <hi>Ezek.</hi> 18.20. besides in <hi>Jsa.</hi> 10.22. <hi>Rom.</hi> 9.22. it is said, though Israel be as the sand of the Sea; yet but a Remnant of them shall be saved; all which proveth that the Israelites were not saved for <hi>Abrahams</hi> faiths sake.</p>
+            <p>Thirdly, neither did God ever promise to give faith to all <hi>A<g ref="char:EOLhyphen"/>brahams</hi> Posterity in the flesh: First, because it is impossible that God should lie; but if he promised to give faith to them all, and did not, then he did lie; but that is false, therfore he never promised so to doe.</p>
+            <p>Secondly, God blames the unprofitablenesse of the Iewes, in respect of the meanes vouchsafed, which if in this respect he had bound himselfe to worke in them, what hee required of them were a contradiction; therefore he did not promise so to doe; and so much of the first particular, what it is not.</p>
+            <p>Secondly, I am now to shew what it is, and I say, God did com<g ref="char:EOLhyphen"/>mand Circumcision upon <hi>Abrahams</hi> Posterity in the flesh, and
+<pb n="11" facs="tcp:206958:10"/> did thereby take, consecrate, separate, set apart and distinguish them to be by his favour, and good will, and great love possessed with divers Lawes and Ordinances, Ministers, Services, Sacri<g ref="char:EOLhyphen"/>fices, Tabernacle and Temple, and all other things which they did possesse by the appointment of God afterwards, which were meanes to typifie and point out to them, and lead them unto Christ, which was to come, <hi>Gal.</hi> 3.23, 24, 25. and unto this peo<g ref="char:EOLhyphen"/>ple and Posterity of <hi>Abraham</hi> did give a holy Land, separate from all other, for a place for them to dwell in, and did appoint a Ci<g ref="char:EOLhyphen"/>tie in that Land separate from all others to be worshipped in <hi>Ioh.</hi> 4.20. <hi>Deut.</hi> 12.5.6, 12, 13, 18, 26. and in that City did ap<g ref="char:EOLhyphen"/>point a Temple for to offer sacrifices in by the Ministery of the Priests, which they might not offer elsewhere, which was a Pri<g ref="char:EOLhyphen"/>viledge that no other Nation enjoyed, <hi>Deu.</hi> 7.6 7 8, 9. <hi>Ro</hi> 9.4, 5. <hi>Psal.</hi> 147.19, 20. and whosoever would be circumcised might come to Ierusalem, and be possessed with the same Priviledges, both they and all that belonged unto them, both children and servants, <hi>Exo.</hi> 12.48.49. but the uncircumcised Man-child in whose flesh the fore-skin is not circumcised, even that person shall be cut off from among his people, <hi>Gen.</hi> 17.14. and thus I have declared the second particular what it is. Now followeth the third that we since Christ have no such Coevnant concer<g ref="char:EOLhyphen"/>ning our fleshly seed, because there is no Christ now to come to be manifested by such meanes as was then, and the necessary ab<g ref="char:EOLhyphen"/>sence of the truth, or thing typified did necessarily require the type, and the necessary presence of the truth or thing typified doth necessarily require the absence of the type.</p>
+            <p>Now that the fleshly seed of <hi>Abraham</hi> was a type of Christ the true promised seed, is manifest in <hi>Gal.</hi> 3. <hi>ver.</hi> 16. compared with 19. where <hi>Paul</hi> saith to <hi>Abraham</hi> and his seed were the Promises made; he saith not and to thy seeds, as of many, but and unto thy seed as of one, which is Christ; and vers. 19. he saith, the Law was added till the seed came, unto which the promises were made, (which was Christ) here <hi>Paul</hi> by the power of the Spirit doth interpret the promise of God to <hi>Abraham, Gen.</hi> 17.7. (where God saith, I will establish my Covenant betweene me and thee, and thy seed after thee in their Generations for an everlasting Covenant to be God unto thee and to thy seed after thee) in re<g ref="char:EOLhyphen"/>spect
+<pb n="12" facs="tcp:206958:11"/> of the seed to be meant in the singular number (namely of one) which is Christ: now if any shall say this lets not but all the faithfull may be understood, which make up one mysticall body being one with him by faith▪ he the head, and they the members; I shall freely grant it to be so according to 1 <hi>Cor.</hi> 12.12.</p>
+            <p>But now it remaines how we may conceive the naturall seed to be interpreted to be Christ, who did not believe surely, no way but ceremonially and typically, even as the male which was to be circumcised did; and the Lambe to be eaten at the Passeover was to be a Male, and all the first borne males both man and beast were called holy, to be offered to the Lord in typicall relation to Christ the true propitiatory Sacrifice.</p>
+            <p>So then when Christ the true promised seed was come, the seed in the flesh that led to Christ, ceased.</p>
+            <p>And so it did indeed, for the naturall relation ceased at the death of Christ, and not before, at which time the distinction or different holinesse betweene Iew and Gentile ceased, <hi>Acts</hi> 10.28. <hi>Eph.</hi> 2.14, 15. in <hi>Rom</hi> 11.20. it is said, through unbeliefe they are broken off; now, it is manifest they were the true Church till the death of Christ, and then broken off through unbeliefe: why were not the Jewes in the sin of unbeliefe be<g ref="char:EOLhyphen"/>fore? Yes, no doubt; why? then were they not broken off be<g ref="char:EOLhyphen"/>fore, and why then? The reason is because the time of faith was come, and therefore now they were broken off through unbe<g ref="char:EOLhyphen"/>liefe; the Seed was come, therefore the naturall Seed ceased; Christ was come, therefore the Law ceased; as long as the Law lasted they did remaine in the Church by being circumcised, and observing the Rites and Ceremonies of the Law, though they did remaine in unbeliefe; but when the time of faith was come, <hi>Gal.</hi> 3.25. Then they were no longer in the Covenant and Church, by observing the Rites and Ceremonies of the Law, which they entred into by Circumcision; but now they were broken off through unbeliefe, which notes out unto us that the standing in that Church before Christ in the time of the law and the standing in this Church since Christ in the time of the Gos<g ref="char:EOLhyphen"/>pell, is upon different grounds, for the standing in that Church was by being circumcised, and observing the Rites and Ceremo<g ref="char:EOLhyphen"/>nies of the Law: but the standing in this Church is by faith, and
+<pb n="13" facs="tcp:206958:11"/> being baptised into the same faith, <hi>Act.</hi> 2.38, 41. Ioh. 4.1. <hi>Gal.</hi> 3.26, 27. <hi>Rom.</hi> 11.20. and it is to be noted that the Iewes, the same people that were circumcised, and in Covenant with <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> according to the flesh, and thereby members of the Iewish Church, could not be the visible Church according to the Gos<g ref="char:EOLhyphen"/>pell, unlesse they did manifest faith, and so bee in Covenant with <hi>Abraham</hi> according to the Spirit, and baptised into the same faith: whereas if the Covenant now under Christ were the same that was before Christ with <hi>Abraham</hi> and his posteri<g ref="char:EOLhyphen"/>ty in the flesh, then by the same right they possessed Circumci<g ref="char:EOLhyphen"/>sion, and the Iewish Church-state, they must possesse this since Christ, which they could not doe, therefore it is not the same.</p>
+            <p>It is true therefore that the Covenant of God, makes the Church both in the time of the Law and Gospell too, for the Church is nothing else then a people in Covenant with God; now looke how the Covenant differs, so the Church and people differs, which is made by it, and which enter into it.</p>
+            <p>Now the Covenant whereby God tooke a people outwardly to be his people then was that whereby they did (being circum<g ref="char:EOLhyphen"/>cised) participate of all those outward meanes which led to Christ which was to come, <hi>Psal</hi> 147.19, 20.</p>
+            <p>But that Covenant whereby he takes a peopl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> outwardly to be his people now, whereby they are admitted to be baptised, is that profession they make of faith in Christ, <hi>Acts</hi> 8.12, 37. <hi>Mat.</hi> 3 6. whereby th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y have true and spirituall conjunction with God, and are his people, <hi>Heb.</hi> 3.6.</p>
+            <p>Indeed it is true, that Christ is and ever was the Mediator and means of Salvation, and also that all those that were saved, were saved through faith in him both before and since Christs com<g ref="char:EOLhyphen"/>ming; but yet because the outward meanes of making Christ known doth differently depend upon his being yet to come, and upon his being come in the flesh; the one being more darke, the other more plaine; the one more carnall, the other more spiri<g ref="char:EOLhyphen"/>tuall; therefore the participation of these meanes doe make the state of the participants to differ.</p>
+            <p>Concerning which, note these differences, first it's called the Old Testament, and the time since Christ, the New Testament, <hi>Heb.</hi> 9.18. Secondly, it is called the carnall Commandement:
+<pb n="14" facs="tcp:206958:12"/> this since Christ is called the power of the endlesse life <hi>Heb.</hi> 7.16. Thirdly, it is called a blameable Testament in opposition to a better Testament, established upon better promises, <hi>Heb.</hi> 8.6. Fourthly it is called impotent, and <hi>beggerly rudiments</hi> in re<g ref="char:EOLhyphen"/>spect of Christ, which is the end of them, <hi>Gal.</hi> 4 9. <hi>Col.</hi> 2 8.</p>
+            <p>Fiftly, it's called a yoke of bondage, in opposition to the li<g ref="char:EOLhyphen"/>berty and freedome which comes by the Gospell, <hi>Gal.</hi> 5.1. <hi>Act.</hi> 15.10. Sixtly it's called <hi>Ierusalem</hi> below, or earthly in opposi<g ref="char:EOLhyphen"/>tion to <hi>Ierusalem</hi> above Celestiall, and Heavenly, which is the priviledge of the visible Church in the New Testament, <hi>Gal.</hi> 4.25, 26. <hi>Heb</hi> 12.22. Seventhly it's called a Law, and a School<g ref="char:EOLhyphen"/>master: the rudiments of the world: the time since Christ, the time of faith, <hi>Gal,</hi> 3.19.23, 24 and 4.3, 4. Eightly, it's called the stop of the partition wall, the Law of Commandements standing in Ordinances: yea hatred, or the cause of hatered in opposition to the unity, and peace that comes by the Gospell, <hi>Ephes.</hi> 2.14.15. <hi>Col.</hi> 2.14. and hereupon it followeth, that on<g ref="char:EOLhyphen"/>ly such persons are to be admitted unto these Gospell-privi<g ref="char:EOLhyphen"/>ledges as are suitable thereunto.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="8">This State then being</cell>
+                     <cell>1. The New Testament.</cell>
+                     <cell rows="8">such only as are</cell>
+                     <cell>1. In the new Covenant.</cell>
+                     <cell rows="8">are suitable therunto.</cell>
+                  </row>
+                  <row>
+                     <cell>2. Established upon better promises.</cell>
+                     <cell>2. In possession of the promises.</cell>
+                  </row>
+                  <row>
+                     <cell>3. After the power of the endles life.</cell>
+                     <cell>3. Partakers of the Powers of endles life.</cell>
+                  </row>
+                  <row>
+                     <cell>4. In Christ.</cell>
+                     <cell>4. In Christ</cell>
+                  </row>
+                  <row>
+                     <cell>5. In liberty of the Spirit.</cell>
+                     <cell>5. In Freedome of the spirit.</cell>
+                  </row>
+                  <row>
+                     <cell>6. Coelestiall Jerusalem.</cell>
+                     <cell>6. Borne from above.</cell>
+                  </row>
+                  <row>
+                     <cell>7. A state of Faith.</cell>
+                     <cell>7. In the Faith.</cell>
+                  </row>
+                  <row>
+                     <cell>8. A state of Vnity and Peace.</cell>
+                     <cell>8. In Vnity, Peace and love.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Therefore only such are to be admitted unto the Gospell-pri<g ref="char:EOLhyphen"/>viledges. In the time therefore before Christ, such as would cir<g ref="char:EOLhyphen"/>cumcise themselves, and their males and observe the Law in the Rights and Ceremonies thereof, together with their chil<g ref="char:EOLunhyphen"/>dren by generation were the seed, and in Covenant with that Church.</p>
+            <p>But now since Christ, only such as believe in Christ and are thereby children by regeneration are the seed, and in covenant with this Church. The proofe of this is cleere, first, because none of the naturall seed of <hi>Abraham,</hi> are in the covenant by vertue of any naturall relation, though they did remaine in the Jewish Church till the death of Christ: and as that Church
+<pb n="15" facs="tcp:206958:12"/> then ceased, so their being in the Church by a naturall relation ceased also, <hi>Act.</hi> 10.28. <hi>Rom.</hi> 9.8. <hi>Gal.</hi> 4.28.31. <hi>C.</hi> 3.7.9.14.16.19.22.26.28, 29. Secondly the <hi>Gentiles</hi> have no naturall relation to become <hi>Abrahams</hi> seed by: and therefore a believers child can<g ref="char:EOLhyphen"/>not become the seed of <hi>Abraham</hi> by being the seed of a believer, unlesse such children doe believe themselves, and cannot other<g ref="char:EOLhyphen"/>wise in no respect be participants in the covenant made with <hi>Abraham.</hi> Thirdly, neither did the three thousand converts baptise their children, when they themselves were baptised, as <hi>Abraham</hi> did according to Gods command, <hi>Gen.</hi> 17.23. circum<g ref="char:EOLhyphen"/>cise his Males the selfe same day; which plainly proves, that the Covenant now under Christ is not the same that was with <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> and his posterity in the flesh: now that the 3000. converts did not baptise their children, when they were baptised them<g ref="char:EOLhyphen"/>selvees is plaine, <hi>Act.</hi> 2.41. the words are, <hi>then they that gladly received the word were basttised,</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> The meaning is onely they, and none other, or else it were an imperfect relation, if others that did not gladly receive the word were baptised also: there<g ref="char:EOLhyphen"/>fore none but those, and therefore not their Infants; for such a testimony (<hi>viz.</hi> that they gladly received the word) is no where recorded in Scripture, neither can be of Infants; also <hi>Acts</hi> 8.12. It is said, when they believed the things that concerned the king<g ref="char:EOLhyphen"/>dome of God, and the name of Jesus, they were baptised both men and women, and not before, therefore not their Infants. Fourthly <hi>Paul</hi> and others writing to the visible Churches, since Christ doe usually expresse themselves of all the members, as of Saints, faithfull brethren, called, reborne, the Sons of God by adoption, <hi>Rom.</hi> 1.6.8. <hi>Chap.</hi> 8.15. 1 <hi>Cor.</hi> 1, 2.4, 5, 6, 7, 8, 9. <hi>Chap.</hi> 4.15, 16. 2 <hi>Cor.</hi> 1.1.7 <hi>Chap.</hi> 3.2. <hi>Gal.</hi> 3.26. <hi>Ephes.</hi> 1.3.15. <hi>Phil.</hi> 1.1.3, 4, 5, 6, 7. <hi>Colo.</hi> 1.2, 3, 4. 1 <hi>Thes.</hi> 1.1.2.4. 2 <hi>Thes.</hi> 1.1.3. 1 <hi>Pet</hi> 1.1.2 3.10.21, 22, 23. which the Prophets (notwithstanding they were led by the same spirit) were wont to speake otherwise of the visible Church of the Jewes, as <hi>Isay</hi> 1.1.16 <hi>Ier. chap.</hi> 1 and 2. <hi>Ezek.</hi> 3, 4 12. chap. 16.48.51. which difference could not be if the naturall children had been in the Covenant, and of the Church as the Jewes were.</p>
+            <p>Fiftly, the Argument and purpose of <hi>Paul</hi> is to exclude all things, besides faith to be any wayes availeable to the participa<g ref="char:EOLhyphen"/>tion
+<pb n="16" facs="tcp:206958:13"/> of the Covenant, in relation to <hi>Abraham</hi> in the time since Christ, <hi>Rom.</hi> 4.16. <hi>Gal.</hi> 3.7.9.14.16.19.22.26.28, 29. there<g ref="char:EOLhyphen"/>fore the posterity in the flesh are not now in the Covenant by any naturall relation, as they were before Christs comming in the flesh.</p>
+            <p>Sixtly, the Author to the <hi>Heb.</hi> 8.8. saith from <hi>Ier.</hi> 31.31. Behold I make a new Covenant with the house of <hi>Iudah,</hi> not like the Covenant I made with their Fathers but this is the Co<g ref="char:EOLhyphen"/>venant, I will put my Law in their mind, and all shall know mee from the least of them to the greatest of them, where we are to note, that the principall difference is in the subjects of the cove<g ref="char:EOLhyphen"/>nants: in the former, God did not put his Law in their mind nor write it their hearts, that is so as without which, they might not be of the house of <hi>Israell,</hi> but did write it in Tables of stone, requiring them to keepe it; but now is Christ the mediatour of the New Covenant, and Testament, that through death which was for the redemption of the transgressions that were in the former Testament: they which were called might receive the promise of eternall inheritance, which promise being recei<g ref="char:EOLhyphen"/>ved, the persons so believing, and only they are the house of <hi>Iu<g ref="char:EOLhyphen"/>dah,</hi> the true Israel of God, <hi>Gal</hi> 6.16. <hi>Rom.</hi> 2.28, 29. the sub<g ref="char:EOLhyphen"/>jects of this covenant, which have the Law written in their hearts: in the former Covenant many of the subjects of it were destitute of the knowledge of God, being the Posterity of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> according to the flesh: at the first Infants circumcised at 8. dayes old, according to the Law, and therefore were to learne God in Christ, when they came of yeares.</p>
+            <p>But now the Subjects of this covenant are such, as all of them do know God, from the least to the greatest, having the Law writ<g ref="char:EOLhyphen"/>ten in their hearts being all possessed of the benefit of remission of sinnes, through Faith by spirituall regeneration, vers. 12. chap 10 17, 18 Insomuch, as it is a great shame for the Church of <hi>Corinth,</hi> that any should bee amongst them destitute of the knowledge of God, 1 <hi>Cor</hi> 15.34 (which could not be if Infants, were the Subjects of this covenant and Church:) therefore the covenant since Christ is not the same that was before Christ, with <hi>Abraham</hi> and his posterity in the flesh, and this shall suffice for answer to this your Argument.</p>
+            <pb n="17" facs="tcp:206958:13"/>
+            <p>
+               <hi>Now I shall examine your proofes, and the first thing you wou'd <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is, that the covenant made with</hi> Abram <hi>and his posterity in the fle<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fore Christ, and that now under Christ is the same: your first <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that the Gospell is the Doctrine of the Covenant.</hi>
+            </p>
+            <p>
+               <hi>But this was preached to</hi> Abraham, <hi>and to the Iewes in the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and in</hi> Davids <hi>time, therefore the covenant is the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me in all.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> And is this a good profe, to prove the coven<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with <hi>Abrams</hi> posterity in the flesh, before Christ a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be the same, surely no such matter, and if it be, then <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ever the Gospell which is the Doctrine of the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> preached, they with their posterity are in the cove<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> though they be the scoffing <hi>Athens, Act.</hi> 17, 18, 19, 20 <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is no more in your profe, but let us see your second proofe you say.</p>
+            <p>
+               <hi>If</hi> Abraham <hi>be the father of the Iewes and Gentiles, and equally as he beleeves the righteousnes of faith, &amp; his children equally, as so beleiv<g ref="char:EOLhyphen"/>ing and no otherwise, then the Covenant is the same.</hi>
+            </p>
+            <p>
+               <hi>But</hi> Abraham <hi>is the Father of the Iewes and Gentiles, and equally as he beleives,</hi> Rom. 4.11, 12.16, 17.23, 24. Gal 3.7.9.26.29. <hi>therefore the Covenant is the same.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> What consequence hath this Argument, to prove that the covenant made with <hi>Abram</hi> and his posterity in the flesh before Christ, and that now under Christ is the same, surely none at all.</p>
+            <p>For first if none be <hi>Abrahams</hi> children, no otherwise than as they beleive the righteousnesse of faith, then when any doe so beleive, let them be baptised.</p>
+            <p>But it is true as it is said and proved in the Scriptures, alleadg<g ref="char:EOLhyphen"/>ed that none are <hi>Abraham</hi> children, neither of Jewes, nor Gen<g ref="char:EOLhyphen"/>tells but as they doe beleive the righteousnesse of faith, <hi>viz.</hi> ac<g ref="char:EOLhyphen"/>cording to the promise) <hi>Rom.</hi> 9.8 <hi>Gal.</hi> 3.29. <hi>chap</hi> 24.28.</p>
+            <p>Therefore none other are Evangellically in the covenant, nor ought to be baptised.</p>
+            <p>Secondly, the body of the Jewish Nation were the posterity of <hi>Abraham,</hi> according to the flesh, were commanded to be cir<g ref="char:EOLhyphen"/>cumcised, <hi>Gen.</hi> 17.10. and so in covenant according to the Law, or otherwise they could not have bin of the <hi>Iewish</hi> Church while the Law lasted, <hi>Rom.</hi> 9.4. &amp; they could not have been broken off
+<pb n="18" facs="tcp:206958:14"/> through unbeliefe, <hi>Rom.</hi> 11.20. and then in the time of the Law they might not eat the Passeover, <hi>Exod.</hi> 12.48. neither might they come to the Temple to bring their Sacrifices, <hi>Acts</hi> 21.2. therefore they were legally in the Covenant, though they were but the posterity of <hi>Abraham</hi> according to the flesh, yet none of the uncircumcision might in the time before Christ partake of these Priviledges, nay, though they did believe, therefore the difference was very great.</p>
+            <p>Thirdly, now since Christ no <hi>Gentile</hi> is <hi>Abrahams</hi> seed at all, but by believing the righteousnesse of faith, although he be the Child of believing Parents. <hi>Gal.</hi> 3.29.</p>
+            <p>Fourthly, none of the Jewes themselves (which were the na<g ref="char:EOLhyphen"/>turall seed of <hi>Abraham</hi> and partakers of all the Ordinances of the Old Testament, as well Circumcision as any other, and that by vertue of the same naturall relation) could be admitted to be baptised, <hi>Acts</hi> 2.39. nor yet to partake of any of the succeeding Ordinances of the Gospell, but upon the manifestation of faith; therfore the Covenant before, and that since is not the same.</p>
+            <p>Your third Reason i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of as little force as the former if it be well weighed; which is this, <hi>That the standing of the Jewes in the gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of God, was the same with</hi> Abrahams.</p>
+            <p>I answere, here we must distinguish of the word <hi>grace,</hi> which may equally be taken either particularly for the Covenant of e<g ref="char:EOLhyphen"/>verlasting life, by which the Saints are fre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly justified, as <hi>Rom.</hi> 3.24. or else more generally for any effect of Gods goodnesse whereby he doth freely communicate any kind of benefit unto men which must needs be by grace and favour, seeing no man deserveth any thing at his hands.</p>
+            <p>This being premised, I now make answer, That if you take grace in the first sence for the Covenant of everlasting life by which the Saints are freely justified: then I deny that the Jewes were ever required to manifest their interest therein before they could be admitted to stand members of the visible Church-state before Christs comming; as all both Jewes and Gentiles must now since the dea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of Christ, <hi>Acts</hi> 8.37. and yet neverthelesse all that were saved, it was by grace in this first sence; but if grace be taken in the second sence (namely more generally) then I must needs acknowledge that it was Gods great grace and mer<g ref="char:EOLhyphen"/>cie
+<pb n="19" facs="tcp:206958:14"/> that the Jewes had a Law of Circumcision and other ordi<g ref="char:EOLhyphen"/>nances which was to them as a Schoole-master to lead them to <hi>Christ</hi> which was to come, <hi>Gal.</hi> 3.24. and also promises that <hi>Christ</hi> must be borne of their seed according to the flesh <hi>Ro.</hi> 9.5. (and in these respects) the standing of the Jewes was the same with <hi>A<g ref="char:EOLhyphen"/>brahams</hi> (and these are the respects) spoken of by <hi>Mary, Luke</hi> 1.54, 55. of the mercy spoken to <hi>Abraham</hi> and his seed, and the Covenant and Oath spoken of by <hi>Zachary, ver.</hi> 72.73. namely, that Christ should come, and was expected by them to be borne of the Virgin <hi>Mary</hi> and <hi>Iohn</hi> the <hi>Baptist</hi> to be his fore-runner, as appeareth <hi>v.</hi> 47 compared with <hi>v.</hi> 76. according to the promises and Oath of God made to <hi>Abraham, Gen.</hi> 12.3. <hi>chap.</hi> 22.16, 17, 18.</p>
+            <p>But all this is too short to prove that the Covenant now under Christ, is the same that was before Christ, with <hi>Abraham</hi> and his posterity in the flesh; and therefore here you may see all your proofes for your assumption taken away, wherupon I sup<g ref="char:EOLhyphen"/>pose your double consequence will faile also; but yet because your consequences stand distinct, and your proofes annexed to them, I will therefore confider of them in order as they stand.</p>
+            <p>The first Consequent that you would prove, is, <hi>That Infants are now in the Covenant, as they were then before</hi> Christ, <hi>you are resol<g ref="char:EOLhyphen"/>ved upon foure reasons.</hi>
+            </p>
+            <p>The first is, else the Covenant were not the same with that which (as you say) you have proved it to be.</p>
+            <p>To which I answer, that I have disproved your proofes of that particular, and therefore this reason is nothing.</p>
+            <p n="2">2. You say <hi>Else the state of the grace of God should be straitned, and be made of lesse extent by</hi> Christs <hi>comming, then it was before, whereas it is more enlarged and of greater extent; there being nothing more then in the state of the person to interesse Infants in the Covenant then now.</hi>
+            </p>
+            <p>First, I answere denying the consequence, and the reason is because the preaching of the Gospell is as full as large and as ample a testimony of Gods grace, as any of the fleshly posterity of <hi>Abraham</hi> had by the Covenant, and larger; inasmuch as the Gospell preached now is a more full declaration of the grace of God and the benefits that come by Christ then ever Circum<g ref="char:EOLhyphen"/>cision or the Ordinances of the Old Testament did declare to them, and the fleshly seed of <hi>Abraham</hi> had but the declaration
+<pb n="20" facs="tcp:206958:15"/> of the grace of God in Christ by the Covenant, then though the believing seed of <hi>Abram</hi> had the grace of God in Christ decla<g ref="char:EOLhyphen"/>red them.</p>
+            <p>And now the Seed of the Gentiles believers and unbelievers are made partakers of the preaching of the Gospell though th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y be not in the Covenant; which is a larger declaration of the grace of God and of the benefits that come by Christ, then ever the fleshly seed of <hi>Abraham</hi> had by being in the Covenant.</p>
+            <p>Therfore the exclusion of the fleshly seed doth not streighten the grace of God at all.</p>
+            <p>Secondly, as it was of larger extent in respect of the cleare Re<g ref="char:EOLhyphen"/>velation of the grace of God beyond what it was before Christs comming; so likewise it is of larger extent in respect of the re<g ref="char:EOLhyphen"/>velation to more people, then it did hen, for then it was confi<g ref="char:EOLhyphen"/>ned to the Land of Israel, and the people of the Jewes; but now this more cleare Revelation of the grace of God (abounding be<g ref="char:EOLhyphen"/>yond whatever Circumcision and all the Ordinances of the Law did or could reveale unto the fleshly seed then in Covenant) is by Christ commanded to be preached to all Nations; yea, to every man and woman <hi>Mark</hi> 16.15. <hi>Mat.</hi> 28.18 19. <hi>Lu.</hi> 24 47, and yet the people neverthelesse more in Covenant nor to bee bap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ised unlesse they believe therfore the increase of the extent of Gods grace doth not necessarily imply a bringing of the flesh<g ref="char:EOLhyphen"/>ly seed of believers within the Covenant.</p>
+            <p>Thirdly, if you by extention of grace doe conceive that ever God did accept of the posterity of <hi>Abraham</hi> into the Covenant of everlasting life, by Christ, without faith in their owne per<g ref="char:EOLhyphen"/>sons, onely in relation to <hi>Abraham,</hi> and therupon conclude that the seed of believers are now much more taken into the cove<g ref="char:EOLhyphen"/>nant of everlasting life by the faith of their Parents: therein you erre, and such an extension of grace I doe absolutely deny both now and in the time before Christ too: this error was con<g ref="char:EOLhyphen"/>demned in the Jewes by <hi>Iohn Baptist, Mat.</hi> 3.9 and by Christ, <hi>John</hi> 8.34 39 40, 41. But of this I have spoken sufficiently before.</p>
+            <p>Fourthly and where it is said <hi>That there was nothing more in the state of the persons, then to in<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rest Infants in the covenant then now.</hi>
+            </p>
+            <p>I answer, That though there was nothing in the state of the
+<pb n="21" facs="tcp:206958:15"/> Persons; yet there was something in things, and in the order of times, Christ being yet to come.</p>
+            <p>In which respect the necessary absence of the truth, and true promised seed did necessarily require the type, namely the flesh<g ref="char:EOLhyphen"/>ly seed to be selected, separated and ceremonially holy, of whom the promised seed was to come: but now the necessary presence of the truth, and true promised seed Jesus Christ being come, doth necessarily require the absence of the type, and the con<g ref="char:EOLhyphen"/>summation, termination, abrogation and utter abolution of this selected, separated and ceremoniall holines of this naturall and fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shly seed; and therefore now there is nothing but Evan<g ref="char:EOLhyphen"/>gelicall holines selection or s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>paration remaining, which is not without personall faith and therfore no visible, being but upon ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ernall manifestation, and consequently no admittance to any Ordinance of the Covenant by any exercising lawfull authority in such causes but only by vertue of such externall manifesta- and thus have I answered your second Reason.</p>
+            <p>Your third Reason, whereby you would prove that infants are now in the Covenant as they were, then is this, <hi>Abraham, being the root, and the Iewes and Gentiles the branches, as when the Iewes were broken off and as well Infants as men of yeares; and so when Iewes be againe implanted, as well Infants as men of yeares shall be so.</hi>
+            </p>
+            <p>To which I answer, first I conceive (under favour) that by the root is meant Christ, according to that of <hi>Iohn</hi> 15.5. where Christ saith, I am the Vine, ye are the branches, because the A<g ref="char:EOLhyphen"/>postle saith, <hi>Rom.</hi> 11.20 thou standest by faith: now Christ is the proper object of faith, and not <hi>Abraham.</hi>
+            </p>
+            <p>But admit that <hi>Abraham</hi> be the root; yet the Gentiles are not the branches in a naturall relation nor the Jewes branches in a spirituall relation, without <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ersonall faith, or else the Jewes could not be broken off through unbeliefe, because unbeliefe doth not make the Jewes cease <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o have naturall relation to <hi>Abra<g ref="char:EOLhyphen"/>ham;</hi> and therefore if you make Jewes and Gentiles to be the branches equall in relation to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Abram,</hi> you must make the relation such as is possible to them both such onely is a spi<g ref="char:EOLhyphen"/>rituall
+<pb n="22" facs="tcp:206958:16"/> relation, <hi>Galat.</hi> 3.29. for in a naturall relation it is not possible for the Gentiles to be branches in relation to the root <hi>Abraham.</hi>
+            </p>
+            <p n="3">3. Whereas you say, <hi>when the Iewes were broken off, it was at well Infants as men of yeares.</hi>
+            </p>
+            <p>I answer, it is true, because Christ which was the true promi<g ref="char:EOLhyphen"/>sed seed being come, the naturall relation in the Covenant cea<g ref="char:EOLhyphen"/>sed and now there was no relation in the Covenant with <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> but by faith in Christ onely.</p>
+            <p n="4">4. Whereas you say, <hi>That when the Iewes be againe implanted, as well Infants as men of yeares shall be so.</hi>
+            </p>
+            <p>I answer that as unbeliefe did breake them off, so faith onely must graft them in, as <hi>ver.</hi> 23.</p>
+            <p>But that ever the Jewes shall be planted so as Infants to be members of the visible Church without the manifestation of faith lawfully, as once they were before Christs comming, can be no way proved but it is an absolute error.</p>
+            <p>Fourthly, your fourth reason to prove Infants in the Cove<g ref="char:EOLhyphen"/>nant, as they were then is this, <hi>If t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Jewes and Ge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tile are incor<g ref="char:EOLhyphen"/>porated into one Body in Christ, and the Iewish Infants are of that Body, then so must the Infants of the Gentiles be; bu th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iewes and Gentiles are incorporated into one Body in Christ; (by the gentiles being made neere and Citizens, which they were not before the Iewes being in Christ)</hi> Eph. 2.11.20, &amp; 3, 6. <hi>and the Iewes Infants are of the same Body: therfore so are the Infants of the Gentiles.</hi>
+            </p>
+            <p>I answere, that this is recorded to belong to the Gentiles, as a benefit in speciall to be the Body of Christ: because the Jewes had meanes before, and some of the Jewes had faith by that means, and were true members of his Body: Christ the head and they the members and so consequently the body; why because the members and the head make up the body, and then their were no members knowne, but the Jewes therefore no body; but the Jewes and the Gentiles had no meanes before; and ther<g ref="char:EOLhyphen"/>fore Christ by his comming brought this to passe, that meanes should be afforded as well and as much as to the Jewes, and con<g ref="char:EOLhyphen"/>sequently faith by the meanes and so united to Christ the head; now being joyned to the head, they must necessarily be joyned to the Body, therefore joyned to those believing Jewes which
+<pb n="23" facs="tcp:206958:16"/> before were the body, but as the Jewes were no otherwise the body, but in relation to the head unto which they were united onely by faith: so the Gentiles had union with the Jewes no otherwise but through Christ the head of them both, being joy<g ref="char:EOLhyphen"/>ned to him by faith, and so to them.</p>
+            <p>Secondly, I say, that the Gentiles did not by conversion enter into fellowship with the Jewish nationall Church-state; for that state the Jewes possessed not by Christ themselves, (but a new Gospell-state which onely some few of the Nation, which were converted to the faith participated of) therfore much lesse could the Gentiles participate of any such Church state with them now: then, if neither Jewes nor Gentiles were the body of Christ considerably as a Nation; but only in respect of con<g ref="char:EOLhyphen"/>version by which they were inheritors of the same body, and partakers of the same promise in Christ by the Gospell; then were not the Jewes meerly as Jewes of the body, and so conse<g ref="char:EOLhyphen"/>quently not their Infants.</p>
+            <p>But neither Jewes nor Gentiles were the body of Christ con<g ref="char:EOLhyphen"/>siderably as a Nation, but onely in respect of conversion by the Gospell, <hi>Eph.</hi> 3.6. Therefore the Jewes meerly as Jewes are not of the body of Christ, and consequently not their Infants till they be converted; and therefore so are not the Infants of the Gentiles neither; and thus you may see your reasons of pro<g ref="char:EOLhyphen"/>ving Infants in the Covenant to faile you, and therefore your next consequence will surely fall, which is this, that Infants ought now to be baptised, as then circumcised.</p>
+            <p>First, <hi>Else the Covenant were not the same, nor Infants in it.</hi>
+            </p>
+            <p>I answere no more, it is not the same in respect of the naturall relation to <hi>Abraham,</hi> as I have shewed and therefore Infants not in it</p>
+            <p>Secondly, you say if they have the thing and substance, they cannot be denied the seale and circumstance, if the first grace, then the second confirming.</p>
+            <p>I answer true, when they manifest that they have the thing and substance, or any other can manifest it for them, then let them have the seale and circumstance; and surely none can for<g ref="char:EOLhyphen"/>bid water, why they should not be baptised, when they are knowne to be in the Covenant.</p>
+            <pb n="24" facs="tcp:206958:17"/>
+            <p>Thirdly, you say, <hi>If by vertue of this word of God to</hi> Abraham <hi>I will be thy God, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the God of thy seed, Infants are included, and there<g ref="char:EOLhyphen"/>fore of old ci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cumcised, and the same promises be continued in the same state to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntiles; then the Gentiles Infants are also in it, but the first is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rue</hi> Ergo,</p>
+            <p>I answer, that the same promises are not continued in the same state to the Gentiles who are not <hi>Abrahams</hi> children by naturall relation nor ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is it con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inued to the Jewes, neither seeing their being in the Covenant by a naturall relation cea<g ref="char:EOLhyphen"/>sed at the death of Christ, at which time the commandement of Circumcision cease<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> also and had the naturall relation held the naturall seed within the Cov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nant still; then doubtlesse the commandement had remained still touching <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he circumcising of that naturall seed for there is no more reason for the ceasing of the one, then for the ceasing of the other; and if Circumcisi<g ref="char:EOLhyphen"/>on had remained, then I suppose none would have pleaded for the baptising of Infants; but if the Covenant be ceased touch<g ref="char:EOLhyphen"/>ing the naturall seed, then there is no Infants to be circumcised, nor baptised neither; but the Covenant ceased at the death of Christ touching the naturall seed, <hi>Act.</hi> 10.28. <hi>Gal.</hi> 3 25. <hi>Eph.</hi> 2.14, 15. <hi>Rom</hi> 11.20.21. <hi>Gal.</hi> 4.25, 26. therfore this is no proofe for Infants to be circumcised nor baptised neither.</p>
+            <p>And thus I have done with your first Argument; your se<g ref="char:EOLhyphen"/>cond followes thus.</p>
+            <p>
+               <hi>If in the whole body of Israelites as well Infants as men of yeares were baptised, and with the same baptisme that ours is, then Infants are now to be baptised, as then they were: but in the whole body of Israelites In<g ref="char:EOLhyphen"/>fants were baptised, and that with the same Baptisme spiritually that ours is.</hi>
+            </p>
+            <p>
+               <hi>Therefore Infants are now to be baptised as then they were.</hi>
+            </p>
+            <p>I answer this Argument is a sophisme and lies not true in his forme; for in the first part of your Argument it appeares as if you intended that the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sraelites were baptised corporally as now since Christ the Disciples of Christ were: and in the second part of your <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rg<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent you tell us it is the same Baptisme spiritually that ours is, whereas if you had said so in the first part then I say your Antecedent would be too narrow to inferre the conse<g ref="char:EOLhyphen"/>quent; and this I shall manifest by laying downe your Argu<g ref="char:EOLhyphen"/>ment
+<pb n="25" facs="tcp:206958:17"/> in such a forme as it may agree with it selfe; (for as it lies now it agrees not with it selfe.)</p>
+            <p>First, if in the whole Body of Israelites as well Infants as men of yeares were baptised, and with the same Baptisme materially and formally, that ours is; then Infants are now to be baptised as then they were.</p>
+            <p>But in the whole Body of Israelites Infants were baptised, and that with the same Baptisme materially and formally that ours is. Therfore Infants are now to be baptised as then they were.</p>
+            <p>Who would not see first that your <hi>Minor</hi> were false, the cloud and the Sea not being the same Baptisme materially and for<g ref="char:EOLhyphen"/>mally that ours is: and secondly neither would the consequence follow, because Infants were then baptised; therefore Infants must now be baptised, no more then because <hi>Adam</hi> was not to eat of the Tree in the midst of the Garden; therfore the eating of some kind of fruit by us is evill; or no more then this, In<g ref="char:EOLhyphen"/>fants were circumcised then, therefore Infants must be circum<g ref="char:EOLhyphen"/>cised now.</p>
+            <p>But secondly, I will supply your Argument in the first part with that which is expressed in the second pat, and then see the force and power of it thus: if in the whole body of Israelites as well Infants as men of yeares were baptised, and with the same Baptisme spiritually that ours is; then Infants are now to bee baptised as then they were.</p>
+            <p>But in the whole Body of the Israelites Infants were baptised, and with the same Baptisme spiritually, that ours is.</p>
+            <p>And now I deny the consequence, and wil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shew you how the Antecedent is too narrow to inferre the same thus.</p>
+            <p>That although God did by the miraculous working of his di<g ref="char:EOLhyphen"/>vine providence, grace and goodnesse lead the People of Israel through the sea dry, and drowned the Aegyptians which were their enemies, and did also affoord them a cloudy Pillar, which was a defence from their enemies, and a guid to them in their way whither they were going, which must be in the nature of the things considered as great a Sacrament, signe or token of Gods love in Christ to that people as Baptisme was to the Co<g ref="char:EOLhyphen"/>rinthians, and therefore called Baptisme: and (for no other reason will it from hence follow, that we should administer such
+<pb n="26" facs="tcp:206958:18"/> an Ordinance as Baptisme is to our Infants, without a command from God so to do for this is the force of your Argument; God did by the worke of his providence baptise the Infants of Israel spiritually, <hi>Ergo</hi> we may by our worke without Gods command baptise our Infants materially, ceremonially and formally; and is this good reasoning? who sees not that God hath no limits, but may by his providence testifie his grace as largely as he wil; therfore we may devise means to worship God as large as we wil, or may administer his means to whom we will, without any di<g ref="char:EOLhyphen"/>rection from him: who sees not that there is no force in such manner of arguing; but it is absurd and erronious so to reason?</p>
+            <p>Thirdly, therefore the purpose of <hi>Paul</hi> is, to declare to the Corinthians that Ordinances would doe them no more good without faith and repentance, then Miracles (which were as great as Ordinances) could doe the Israelites good to prevent Judgements when they sinned; and that therefore it would be a vaine thing for these Corinths to rest secure in the possession of these Ordinances, as if God respected them thereby without Faith in Christ, such a faith as preserved them from those sins which the Israelites committed; the which faith if they had not, they were no more exempt from Gods displeasure, plagues and Judgments then the Israelits were: and if Ordinances would secure these Corinths, then those miracles would secure them: but these Miracles did not secure them; therefore these Ordi<g ref="char:EOLhyphen"/>nances cannot secure you; but you must have a better security then this, namely, faith in the blood of Christ, whereby you are to be carried on towards God in all things as a People pro<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssing and practising the truth: But his purpose is not to shew that Ordinances, namely Baptisme and the Lords Supper are required to be administred by these Corinths to themselves and to their Infants, though they do not believe in Christ: because then God did exercise such Miracles to the Israelites which did not believe, which is the sequell of this Argument compared with the proofe, as we shall see by the examination thereof; for your first proofe is this.</p>
+            <p>You say, <hi>That the other Ordinances there mentioned, are the same sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ritually with ours; they eat the same spirituall meat, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rank the spirituall drink with us.</hi>
+            </p>
+            <pb n="27" facs="tcp:206958:18"/>
+            <p>I answer then by consequence belike the Corinths must bap<g ref="char:EOLhyphen"/>tise themselves and their Infants, and both of them eat the Lords Supper, though neither of them doe believe, because then God led the Israelites through the Sea drie, and gave them the Cloud, and Manna, and the Rock which spiritually is the same with ours, which notwithstanding did not believe: the which thing thus laid open, I hope you will not affirme.</p>
+            <p>Secondly, I answer therefore that you erre in calling them (the oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Ordinances there mentioned) whereas they are the ther Miracles, which had you well weighed, you would not have made th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m the ground of your Argument for the justify<g ref="char:EOLhyphen"/>ing of such a practice as the baptising of Infants is.</p>
+            <p>Fourthly, besides if after the Israelites were entred into the Land of Canaan th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y were then neither baptised with the cloud nor sea nor any other baptisme; then was not the baptisme which they had before in the cloud and in the sea an example of perpetuall practice of Baptisme: but the first is true, for they entred through the Sea but once, and the cloud ceased when they entred into Canaan, neither can any shew that they were baptised with any other Baptisme; therefore the Baptisme which they had before, is not an example of perpetuall p actice of Bap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isme.</p>
+            <p>Fifthly Bap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ismes of different kinds depends upon different grounds, and are to be administred upon different Subjects for different ends but the Baptisme of the Cloud and Sea, and the Baptisme we have now are of divers kindes, <hi>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>go</hi> they depend up<g ref="char:EOLhyphen"/>on different grounds, and are to be administred upon different subjects for different ends.</p>
+            <p>Your second proofe you say, <hi>Otherwise the Ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stles Argument w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re not of f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce against the Corinthians if they were n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the same Sacra<g ref="char:EOLhyphen"/>ments with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, nor the conclusion containe that the Corinthi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns should be punished with the like punishment, if they commit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed the like sinnes.</hi>
+            </p>
+            <p>I answer, denying the consequence, for although the Cloud and Sea, Manna and the Rock were Sacraments of the same Christ that Baptisme and the Lords Supper is, yet they were not the same Sacraments; and it sufficeth to the Apostles pur<g ref="char:EOLhyphen"/>pose that the Cloud, Sea, Manna, and Rock, were as great and efectuall tokens of Christ, and so they were in the nature of the things simply considered) as Baptisme and the Lords Supper
+<pb n="28" facs="tcp:206958:19"/> is, though they were different Sacraments of the same Christ and not the same Sacraments, and except they were dipt in wa<g ref="char:EOLhyphen"/>ter, and did eat and drinke bread and wine as we do, yee cannot say they were the same Sacraments with ours; and thus have I refuted your second argument.</p>
+            <p>Your third argument followes, which is this:</p>
+            <p>
+               <hi>There is one and the same consideration of the first fruits and the lump the root and the branches: But the first fruits and roote believing Pa<g ref="char:EOLhyphen"/>rents are holy and must be Baptized, therefore Jnfants the lump and bran<g ref="char:EOLhyphen"/>ches are holy and must be Baptized.</hi>
+            </p>
+            <p>I deny the asumption or second part of your argument, assu<g ref="char:EOLhyphen"/>med out of the first, <hi>viz.</hi> That believing Parents are the roote or first fruites; neither doth, <hi>Rom.</hi> 11.16. nor the 1 <hi>Cor.</hi> 7.14. prove any such thing; we will consider of the places distinctly, and first of the first, in <hi>Rom.</hi> 11.18. It is said (speaking to the believing Gentiles) boast not thy selfe against the branches, for if thou boast thy selfe thou bearest not the roote but the roote thee; now if they beare not the roote but the roote beareth them, then they cannot bee the roote, and yet they stood by Faith verse the 20 and were but branches, verse 21. this first place is therefore abused to make beleiving parents the first fruits and roote, and their Infants naturally descended from them to be the branches, whereas beleivers are but branches them<g ref="char:EOLhyphen"/>selves: and secondly, 1 <hi>Cor.</hi> 7.14. doth prove no such thing neither, which as it neither expresseth roote nor first fruites, so hath it no such sence and meaning as that the holinesse of Faith in the parents, should cause the holinesse in the children.</p>
+            <p>But before I expresse my reasons of the exposition, either ne<g ref="char:EOLhyphen"/>gative or affirmative, I conceive it necessary to observe what you say (on the contrary you say, <hi>you suppose it is mistaken when expoun<g ref="char:EOLhyphen"/>ded to be the same holinesse spoken before of Infidel's person sanctified to the beleiver,</hi> and further you say, <hi>the Apostle speak ng therefore of a two-fold holinesse, the one (n t) in the thing it selfe but to anothers use, the other of the thing it selfe it cannot but be sinfull to conf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und them.</hi>
+            </p>
+            <p>To which I answer, that I will not contend nor gainsay any of this, but further you say.</p>
+            <p>
+               <hi>That the Apostle saith two things, that to the pure all things are pure, and sanctified; therefore a beleiving husband or wife may dwell w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h an
+<pb n="29" facs="tcp:206958:19"/> Infidell yoake-fellow, the second thing is, that by vertue of a beleivers state in grace, all his fruite is holy, and partakers of the same state of grace, with him, unlesse they doe by some act of theirs deprive themselves of it as Esau, Ishmael, &amp;c.</hi>
+            </p>
+            <p>To which I answer, that the former of these two things, I grant, but the latter I wholy deny, that it is any of the purpose of <hi>Paul</hi> so to speake.</p>
+            <p>For first, it is the purpose of <hi>Paul</hi> to conclude such a holinesse in the children, as was inseparable to their very being, or else it would not have been a sufficient reason to have proved the san<g ref="char:EOLhyphen"/>ctification of the unbelieving yoke-mate by the believer, and therefore to suppose some Act of theirs to deprive them of the holinesse there spoken of is a coarcted and farre fetch't expositi<g ref="char:EOLhyphen"/>on.</p>
+            <p>Secondly, if by a believers state in grace be understood the co<g ref="char:EOLhyphen"/>venant that <hi>Abraham</hi> and all believers doe possesse by faith: then first I say, that <hi>Esau</hi> nor <hi>Ishmael</hi> were never of it, <hi>Rom.</hi> 9.8. and therfore could not by any Act of theirs deprive themselves of it.</p>
+            <p>Secondly, if they were and deprived by some Act of theirs; then we must fall upon <hi>Arminius</hi> tenet of falling away which un<g ref="char:EOLhyphen"/>derstanding Christians doe utterly abhorre.</p>
+            <p>Thirdly, then the being in the everlasting covenant of grace, and peace with God by Christ, should be conveyed and deri<g ref="char:EOLhyphen"/>ved by naturall descent, and not by the Gospell, which is ab<g ref="char:EOLhyphen"/>surd and contrary to many Scriptures, <hi>Rom.</hi> 1 16, 17. chap. 10.17. <hi>Gallathians</hi> 3.2. <hi>Ioh.</hi> 3.5. 1 <hi>Pet.</hi> 1, 23. <hi>Iam.</hi> 1.18. <hi>Ioh.</hi> 1.13.</p>
+            <p>The first of these Scriptures saith the Gospell is the power of God to salvation to every one that believeth; whereas this po<g ref="char:EOLhyphen"/>sition saith, that some are <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>artakers of a state of grace and sal<g ref="char:EOLhyphen"/>vation by vertue of their parents, being in the state of grace, which is directly contrary the one to the other: and all the o<g ref="char:EOLhyphen"/>ther Sriptures, and many more proves that Faith <hi>comes by hearing, and hearing by the word of God,</hi> by which conver<g ref="char:EOLhyphen"/>sion and regeneration is wrought, by which onely and alone we become Sons of God by adoption and grace; now ther<g ref="char:EOLhyphen"/>fore to say that some are partakers of the same by generation,
+<pb n="30" facs="tcp:206958:20"/> by vertue from their parents is directly contrary, yea contrary to the whole Gospell of Christ, <hi>Rom.</hi> 4.14. where the Apostle saith, if they which be of the Law (that is naturally descended and circumcised onely) be Heires: Faith is made voyde and the promise (that is, the whole Gospell or Covenant of grace) is made of none effect.</p>
+            <p>But if you meane by a State of grace such favour as it pleased God to bestow upon the posterity of <hi>Abrah<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,</hi> according to the flesh whereby (being circumcised) they were segregated and di<g ref="char:EOLhyphen"/>stinguished to be possessed of Ordinances leading them to Christ, which was then to come above other neighbour Nations: I grant that this distinction agrees to them yet neverth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lesse: to this I say first that this distinction was taken away at the death of Christ <hi>Ephes.</hi> 2.14 15. <hi>Act.</hi> 10.28.</p>
+            <p>Secondly, neither is it <hi>Pauls</hi> purpose to conclude these chil<g ref="char:EOLhyphen"/>dren spoken of 1 <hi>Cor.</hi> 7.14. within the Limits of such a distin<g ref="char:EOLhyphen"/>ction, first because the Lord in the time of the Law did accompt of children, in the very case and consideration that these chil<g ref="char:EOLhyphen"/>dren were in, to be a polluted and unholy seed, and to be put a<g ref="char:EOLhyphen"/>way with their Mothers which were not members of the Church according to the Law, <hi>Ezra,</hi> 9.2.10 3. Therefore that State did not alow even while it lasted children to be of that state, when one of the parents were forreigners to the Church, therefore much lesse hath it any consequence to conclude it, so now when the State it selfe is nullifyed.</p>
+            <p>Thirdly, in the time of the Law from which this successive be<g ref="char:EOLhyphen"/>ing in the state of grace, is concluded to come the Proselite Jew was required to circumcise all his males, <hi>Exod.</hi> 12.48. and he should be as one that was borne in the Land, and it must bee conceived that the Females were included in the Males, and did enter into the state with them; there being no circumcision, or other Sacrament of entrance appointed for them, whereupon it followeth that there can be no President or rule, no not in the time of the Law it selfe; that ever any one parent comming to be of the <hi>Iewish</hi> state and leaving their maried yoke-mate out did possesse their seed of the same state, and the reason was because the Law did injoyne the Proselite to possesse all of the state that were under his Jurisdiction by the authority of that Law which required him to circumcise all his males.</p>
+            <pb n="31" facs="tcp:206958:20"/>
+            <p>And therefore the state now which takes in upon Faith onely, and thereupon takes the husband which believeth and leaves out the wife which beleiveth not and takes the wife which beleiveth, and leaves out the husband which believeth not; can receive no rule from that state to take in the children before they doe be<g ref="char:EOLhyphen"/>lieve no more then the wife which then was brought into that state by the law of the husbands being a Proselite, and left out of this state untill such time as they doe believe,</p>
+            <p>Fourthly, the Apostle speakes indefinitly of their Children young or old, which it may be, some were 10, 20 or 30. yeares old; and it must be considered, that age doth not make them cease to be Children in relation to those Parents, whose chil<g ref="char:EOLhyphen"/>dren they are, and againe it must be considered, that <hi>Pauls</hi> pur<g ref="char:EOLhyphen"/>pose is not to speake of Children in respect of yeares, but in re<g ref="char:EOLhyphen"/>spect of relation only for his Argument is an Argument of rela<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion.</p>
+            <p>Now it is an absurdity of such a nature, as no body I thinke will owne to conclude, that Children of 20 or 30 yeares old which are apparently wicked, are holy in such a sense as by ver<g ref="char:EOLhyphen"/>tue of their Parents state in grace to be partakers of the same state of grace with him, so as to be Baptized by vertue of this relation.</p>
+            <p>Therefore holynesse here cannot in the Apostles meaning be so understood, neither will the exception take it off, <hi>(viz.)</hi> un<g ref="char:EOLhyphen"/>lesse they do by some act of theirs deprive themselves of it) as <hi>Esau</hi> and <hi>Ishmael, &amp;c.</hi>
+            </p>
+            <p>To which I Answer, that the Apostle speakes positively of a conclusion drawne from the State of the relation which can admit of no exception, which if it could, then will it bee of no absolute validity to enforce the conclusion; and according to this Argument if the Children doe by some Act of theirs deprive themselves of their estate in grace, then their Parents can have no sanctified use of their unbelie<g ref="char:EOLhyphen"/>ving yoak-mate though they have never so much faith in them<g ref="char:EOLhyphen"/>selves; whereas contrary to this the Apostle saith, to the pure all things are pure <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it</hi> 1.15. without reference to the children, therefore the childrens state in grace or not in grace, addeth not nor diminisheth any thing to that purpose.</p>
+            <pb n="32" facs="tcp:206958:21"/>
+            <p>Fiftly, therfore I say that the holinesse spoken of here, is such a holynesse as must prove the unbelieving Parent sanctified to (or by) their unbelieving yoke-mate, but it the Parents be not lawfully married, the grace of the child (if it have any though never so much) cannot prove the unbelieving Parent sanctified to or by their believing yoke-mate: Now if any shall object, that if their Parents were not lawfully married, then were they not husband and wife each to other: I answer: that upon the same ground that the Corinthians did question the dwelling with their unbelieving yok-mate, upon the same ground they did question their being lawfully husbands and wives each to other, which if they were not, all the grace that can be imagi<g ref="char:EOLhyphen"/>ned in the Children, will never prove the unbelieving Parent sanctified to or by their believing yoke-mate, therefore the ho<g ref="char:EOLhyphen"/>lynesse here spoken of is not a state of grace, neither inward nor outward neither, seeing that answers not the Corinthians scru<g ref="char:EOLhyphen"/>ple, nor proves the thing in question by them.</p>
+            <p>Sixtly, therefore I answer positively, that the holynesse here spoken of is legitimacy, and the uncleanesse Basterdy, and the reason is partly because such an exposition hath force to prove the thing in question, and the other hath not; and partly be<g ref="char:EOLhyphen"/>cause such a holynesse is derivative from all Parents lawfully married, and the other is not, <hi>Mal.</hi> 2.15. and it must be such a holynesse as is derivative from all Parents lawfully married be<g ref="char:EOLhyphen"/>cause one of the Parents being come to the Faith, and the argu<g ref="char:EOLhyphen"/>ment standing in the Children which were begotten and borne before, which therefore could not receive any vertue from the faith of the Parents by the course of generation to have any ho<g ref="char:EOLhyphen"/>lynesse thereby derived unto them; Therefore it must be such a holynesse as is derivative from all Parents lawfully married, and that is no other then Legitimacy, and that such an exposi<g ref="char:EOLhyphen"/>tion of holynesse so understood hath force sufficient to prove the thing in question, is cleare; because if one of the Parents do believe there can no objection be made why Legitimacy should not prove the unbelieving Parent to be sanctified to or by the believing yoke-mate whereas if there be no children Le<g ref="char:EOLhyphen"/>gitimate, the question may lie as it did with the Corinthians, whether they were bound together as husband and wife, and
+<pb n="33" facs="tcp:206958:21"/> whether the unbeliever be sanctified to the believing yoke-mate, yea or no: but taking it for granted that they have Chil<g ref="char:EOLhyphen"/>dren each by other legitimate, it is then out of question; the conclusion then is, that there can be no such holynesse under<g ref="char:EOLhyphen"/>stood of Children in this place of <hi>Paul</hi> as by which they must be Baptised, and thus is your third Argument refuted.</p>
+            <p>Your fourth Argument is this, <hi>If Baptisme succeed Circumcisi<g ref="char:EOLhyphen"/>on then if Infants were to be Circumcised, Infants are to be Baptised; but Baptisme succeeds Circumcision, therefore as Infants were to be Circum<g ref="char:EOLhyphen"/>cised so Infants are to be Baptised.</hi>
+            </p>
+            <p>To which I answer, I deny the consequence of the proposition for it doth not follow, because Baptisme in a sense succeeddeth Circumcision, that therefore the same subjects that were to be Circumcised then, are to be Baptised now; no more then this consequence, the Gospell succeeds the Law, the Sons of <hi>Aaron</hi> were Ministers of the Law, therefore the Sons of <hi>Aaron</hi> are to be Ministers now, or no more then this, Baptisme succeeds Cir<g ref="char:EOLhyphen"/>cumcision, then if they Circumcised all the Males servants though they were men and had no Faith, then so they are to Baptise them now; and so in restriction, also Baptisme suc<g ref="char:EOLhyphen"/>ceeds Circumcision, Females were not to be Circumcised then though they had Faith, therefore not to be Baptised now: or thus; the Lords Supper succeeds the Passeover then if the little Children and servants eate it, namely the Passover, with the rest of the Family distinctly by themselves in a house, then so are little children and servants to eate the Lords Supper with the rest of the Family distinctly in one house by themselves now: and is this good reason? and yet what ever objection can be made against any of these consequences, will lie against yours also.</p>
+            <p>Secondly, I say the body of the Jewish Nation were subjects Circumcised according to the Law, even when Christ died, yet the same were not subjects of Baptisme according to the Gos<g ref="char:EOLhyphen"/>pell untill they gladly received the word of God, <hi>Act.</hi> 2.41.</p>
+            <p>Thirdly, therefore I answer, that as Baptisme succeeds Cir<g ref="char:EOLhyphen"/>cumcision, so doth the commandement of Baptisme succeed the commandement of Circumcision, and the Subject com<g ref="char:EOLhyphen"/>manded to be Baptised doth succeed the subject commanded
+<pb n="34" facs="tcp:206958:22"/> to be Circumcised: as therefore of old when persons were to be Circumcised, they had recourse to the commandement of Circumcision for direction of themselves in the parties to be circumcised; so now ought we to have recourse to the com<g ref="char:EOLhyphen"/>mandement of Baptisme for direction of our selves in the par<g ref="char:EOLhyphen"/>ties to be Baptised, now therfore for to have recourse to the commandement of Circumcision, for to have direction in the parties to be Baptised, is not onely a failing in method, order, and good decorum, but also causeth a necessity of erring, be<g ref="char:EOLhyphen"/>cause the commandement of Circumcision and the comman<g ref="char:EOLhyphen"/>dement of Baptisme is of different subjects; and if we should take the parties to be Baptised from the commandement of Cir<g ref="char:EOLhyphen"/>cumcision, then we must Baptise none but Males, and that on the eighth day too; and the Proselyte must Baptise all his Males whether they have Faith or no, and the Females must not be baptised though they have never so much faith; wheras contrariwise the commandement of baptisme requireth the baptisme of Disciples, and onely Disciples, and that both men and women, <hi>Mat.</hi> 28.18. <hi>Ioh</hi> 4.1, 2. <hi>Act.</hi> 2.38.41. <hi>chap.</hi> 8.12.37. <hi>chap.</hi> 10.47. <hi>Gal.</hi> 3.26.27, 28, 29. and what is the descrip<g ref="char:EOLhyphen"/>tion of a Disciple, see <hi>Luke</hi> 14.26, 27, 33.</p>
+            <p>Fourthly, That which was the reason of the change of the Sacrament was the reason of the change of the subject which the Sacrament was to be administred unto wherupon it follow<g ref="char:EOLhyphen"/>eth that by the same reason that we take Infants to be baptised, because Infants were formerly Circumcised, by the same rea<g ref="char:EOLhyphen"/>son we may Circumcise them now, because they Circumcised them then and so consequently the question of bap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isme ended, unlesse it should be pleaded, that Infants should be baptised and circumcised both: Now if it be absurd to circumcise Infants now, notwithstanding they circumcised them then, because Christ is now come, who hath put an end to Circumcision and all the Ceremonies of the Law, surely it is no lesse absurd to baptise Infants now in relation to their circumcising of them then, because Christs comming doth put an end to the subject also, and hath instituted another Subject to be Bap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ised, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y are those that first taught to believe in Christ, and onely those; and thus is the consequence of baptisme succeeding cir<g ref="char:EOLhyphen"/>cumcision taken away.</p>
+            <pb n="35" facs="tcp:206958:22"/>
+            <p>And thus have I made a full answer to your discourse touch<g ref="char:EOLhyphen"/>ing <hi>Jnfants Baptisme,</hi> and now it remaines I should make some answere to your discourse touching the forme of the Church.</p>
+            <p>And first you speake of <hi>Agreement</hi> in this, <hi>viz. That matter and forme do constitute a Church, (to which we do agree)</hi>
+            </p>
+            <p>Also you say, <hi>That the matter is a company of visible Saints, pro<g ref="char:EOLhyphen"/>fessing faith in the righteousnesse of Christ, and living accordingly.</hi>
+            </p>
+            <p>To this I answer, that this definition agreeth not to Infants, which you would make the subjects of baptisme, who are borne in sinne, and are by nature the children of wrath, <hi>Psal.</hi> 51.5. <hi>Ephes.</hi> 2.3.</p>
+            <p>Secondly, neither doth it agree with the constitution of the Jewish Church (which you make to be a patterne for ours, by bringing your grounds from thence for the baptising of Infants) who never were required to make any such profession at the time of their admission, as all the Churches since Christs com<g ref="char:EOLhyphen"/>ing are, and all the Members added, or to be added, do when they are added, <hi>Act.</hi> 2.41. <hi>chap.</hi> 8.12, 13.37, 38.10.47, 11.15, 16, 17</p>
+            <p>So then after you have set down wherein we do agree, (as in<g ref="char:EOLhyphen"/>deed it were well if you did agree with your selfe in it) then you make a Quaere <hi>Whether Baptisme be not the forme of it,</hi> and your an<g ref="char:EOLhyphen"/>swer is <hi>No,</hi> and then you give your reasons of that denyall, and then you affirme, <hi>That a Covenant acted is the forme;</hi> to all which I answer, first in generall, that we are to distinguish betwixt that which formeth and the forme which is formed▪ because the forme of any thing according to the common and vulgar acception of forme is that outward frame fashion or figure that the thing hath, wherby it is distinguished or hath its denomi<g ref="char:EOLhyphen"/>nation, and to apply it to the question in hand, the Church be<g ref="char:EOLhyphen"/>ing an Assembly, the forme, fashion, or figure thereof is the re<g ref="char:EOLhyphen"/>lation or state that every Member possesseth from Christ their King and common head, and each with other, wherby every Law in every office or service is communicable and executed; so then neither Baptisme nor a Covenant is the forme of the Church but Baptisme of believers is the instrumentall meanes by which the Church commeth to be made partakers of that forme which it hath, and by which it comes to be a Church,
+<pb n="36" facs="tcp:206958:23"/> and to have such a name setled upon it, and without which it can have no such name agree unto it.</p>
+            <p>The Instrumentall meanes then of the being of this Church, both for matter and forme is by consent of love, issuing forth from the Covenant of grace made in from one Lord through one Spirit, one Faith, one Baptisme: <hi>Eph.</hi> 4.4.5. and if any of these meanes be wanting, then something is wanting that causeth the Church to be, and except that want be supplied, the Church can have no visible existence or being, and from hence the conclusion ariseth, that although Baptisme be not the forme, frame, fashion, or figure of the Church, yet seeing Bap<g ref="char:EOLhyphen"/>tisme is an essentiall part of the meanes conducing to the being of the visible Church, yea and the last meanes too; That where true Baptisme is wanting, there can be no true visible Church.</p>
+            <p>Secondly, whersoever true baptisme is administred accord<g ref="char:EOLhyphen"/>ing to the will of Christ revealed in the Scripture, <hi>there the true visible Church is by that meanes, truely constituted and stated in his true being.</hi>
+            </p>
+            <p>It is therefore called the birth of water, <hi>Joh.</hi> 3.5. <hi>Titus</hi> 3.5. As therefore the birth which we receive from our naturall Pa<g ref="char:EOLhyphen"/>rents, is that by which we receive the beginning of our natures being among the common state of mankinde in the affaires of this corporall life, even so Baptisme being the birth of water, is that whereby we receive the beginning of our visible being in our Spirituall estate among the Church and people of God, in the affaires appertaining to eternall life, but the first is true from the analogy that baptisme hath with naturall birth, therefore the second by force of consequence is also true.</p>
+            <p>Secon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly, I argue from the forme of baptisme, it being a dip<g ref="char:EOLhyphen"/>ping of the body into the water and in that respect called a buri<g ref="char:EOLhyphen"/>all with Christ, <hi>Rom.</hi> 6.4. <hi>Col.</hi> 2.12. betokening our death and resurrection.</p>
+            <p>As therefore the rising out of the grave at the last day is the beginning of our being bodily in the state of glory, so the rising out of the water of baptisme is the beginning of our being in the visible state of grace, and the beginning of our visible spirituall life is from that day, <hi>&amp;c.</hi> in respect of their outward station.</p>
+            <pb n="37" facs="tcp:206958:23"/>
+            <p>Thirdly, I argue from the end for which baptisme is appoin<g ref="char:EOLhyphen"/>ted, which amnogst other, is to unite them to the visible body of Christ, 1 <hi>Cor.</hi> 12.13. <hi>Gal.</hi> 3, 27.28. <hi>Eph.</hi> 4.5, 6. and to di<g ref="char:EOLhyphen"/>stinguish them from the rest of the world which are not bapti<g ref="char:EOLhyphen"/>sed as they are, <hi>Col.</hi> 2.12. compared 20. and so Circumcision did distinguish and denominate the Proselite Jewes from what they were before, and from all other Heathens <hi>Ex.</hi> 12.48 49. <hi>Ro.</hi> 3.1.2.</p>
+            <p>From whence I reason thus; if union and communion with the visible body of Chrsst, and distinguishment from the rest of the world be the end for which baptisme is appointed, then whensoever it is administred according to appointment, it must necessarily be concluded to be such a meanes as is effectuall to accomplish the proposed end, and unlesse baptisme as a meanes be administred to persons which are believers, subjects only ca<g ref="char:EOLhyphen"/>pable of such union, communion, and distinction, such an end can no waies else be effected, and that way it may be and is; but the former is true by the ground before laid, <hi>Ergo</hi> the latter is also true.</p>
+            <p>Fourthly, I argue from the Irreiteration of baptisme, it being to be administred but once, the Lords Supper often, in which respect baptisme is the signe of our birth, the Lords Supper is the signe of our growth: baptisme is the Sacrament of our en<g ref="char:EOLhyphen"/>trance or initiation, the Lords Supper is the Sacrament of our continuance and conservation in the visible body of Christ, and therefore by the same reason that a man may be conceived to have a being in the visible Church for a time without bap<g ref="char:EOLhyphen"/>tisme, the signe and Sacrament of his birth, entrance and initi<g ref="char:EOLhyphen"/>ation by the same reason he may have a continuance of his be<g ref="char:EOLhyphen"/>ing there without the same also, and so cons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quently baptisme needlesse: but baptisme is not needlesse but needfull, (being a signe of our birth, entrance and initiation) to be administred as a meanes of our visible birth, entrance initiation or the beginning of our visible being in the visible body of Christ (which therefore in that respect is called the birth of water) which thereby do visibly enter into the Covenant of Grace.</p>
+            <p>Therefore without baptisme they have noe visible being in the Church, and by it they have.</p>
+            <p>Fiftly, I argue from the nature of baptisme as it is a seale of
+<pb n="38" facs="tcp:206958:24"/> the Covenant, and so consequently a part of the Covenant, an Ordinance of mutuall ingagement between God and man, <hi>Act.</hi> 2.38. chap. 22.16. 1 <hi>Cor.</hi> 1.13. even as circumcision was an in<g ref="char:EOLhyphen"/>gagement to all the duties or Ordinances of the Law, <hi>Gal</hi> 5.3. so is Baptisme an ingagement to all the Ordinances of the Gos<g ref="char:EOLhyphen"/>pell, which is therfore called Christs bond or yoke, <hi>Psal.</hi> 2.3. <hi>Mat.</hi> 11.29. his badge or livery of his professed Disciples, there being no other visible Ordinance of God appointed to passe up<g ref="char:EOLhyphen"/>on persons, to note out their being in the Covenant before this; from hence I reason</p>
+            <p>They that are baptised upon profession of Faith have sealed to the covenant, &amp; are known thereby to belong to the covenant, and so have a visible being in the same, whereas they that are not baptised by vertue of profession of Faith by them made can<g ref="char:EOLhyphen"/>not by any Ordinance of God be knowne to belong thereunto.</p>
+            <p>But God hath appointed some Ordinance to be administred upon persons which make profession of Faith, whereby they may be visibly knowne to belong to the covenant of grace, wher<g ref="char:EOLhyphen"/>as others that partake not thereof cannot be so knowne, and there is nothing before Baptisme appointed so to doe.</p>
+            <p>Therefore Baptisme administred to persons professing Faith and repentance, is it alone by which they may be knowne accor<g ref="char:EOLhyphen"/>ding to Gods Ordinance, to be in the covenant of grace, and to be of the visible body of Christ.</p>
+            <p>Lastly, I argue from the Commission for Baptisme, <hi>Mat.</hi> 28 18. given to the first, which was, that they should make Disciples, all Nations baptising them, where note that baptising is a <hi>parti<g ref="char:EOLhyphen"/>ciple</hi> to the making of them, to beare the name of Disciples or Shollers in Christs schoole, hereupon the words of Christ in the Commission, <hi>Mar.</hi> 16.16. are, <hi>he that believeth and is baptised shall be saved;</hi> Faith puts a man into the State of salvation be<g ref="char:EOLhyphen"/>fore God: Baptisme before men; and assoone as they were Di<g ref="char:EOLhyphen"/>sciples baptised, and so stated a visible assembly, then to teach them to observe all things whatsoever he had commanded them, ver. 19. where note, they were first to be a Church of Christ; Secondly, they were to doe and observe as a Church of Christ, from whence I reason.</p>
+            <p>If the Commission for Baptisme given to the first Church-planters
+<pb n="39" facs="tcp:206958:24"/> of the new Testament, did require Baptisme, and that only to be administred upon persons, as the last thing to make Disciples or Schollers in Christs schoole, in a visible state of salvation, seated in the observation of all the rest of the Ordi<g ref="char:EOLhyphen"/>nances of Christs Kingdome, then Baptisme administred upon those which are first taught, is that by which the true visible Church is constituted, and stated in its true being: but the for<g ref="char:EOLhyphen"/>mer appeares by the ground before laid, <hi>Ergo.</hi>
+            </p>
+            <p>Thus have I cleared and proved my position, that Baptisme is the thing or instrument and meanes forming and constitu<g ref="char:EOLhyphen"/>ting of the Church, though it bee not the outward fashion, frame, figure, or forme of the Church formed; yet never<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>helesse because your Arguments seeme to lye against the question thus stated, I will consider them in order as they lie; First therefore you say, <hi>that which giveth being to a Church must be removed, if the Church cease to be a Church.</hi>
+            </p>
+            <p>
+               <hi>But Baptisme cannot be removed from a Church.</hi>
+            </p>
+            <p>To which I answer, that it is as easie to remove Baptisme from a Church, as to remove a Church from being a Church.</p>
+            <p>Secondly, you say <hi>that which being wanting to a Churc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> constituted, doth not cause it to be no Church, that cannot be the forme of the Church,</hi>
+            </p>
+            <p>
+               <hi>But Baptisme may be wanting in a Church constituted, and yet it be a Church as circumcision to them,</hi> Joshua 5. <hi>Ergo.</hi>
+            </p>
+            <p>Answer, I deny the second proposition namely, that Baptisme may be wanting in a Church constituted because it is constitu<g ref="char:EOLhyphen"/>ted by Baptisme, as we have prov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d before, neither will, <hi>Ioshua</hi> 5 helpe you herein, the case of the Israelites being extraordina<g ref="char:EOLhyphen"/>ry, having speciall dispensation from God himselfe in the sup<g ref="char:EOLhyphen"/>ply of miraculous Sacraments in the cloud and Sea, Manna and the rock 1 <hi>Cor</hi> 10.1.2. which God gave them while their travailes necessarily required the forbearance of circumcision, and the Passeover, which if such necessity had not been, would not have beene dispenced with, but the parties so neglecting should have been cut off, <hi>Gen.</hi> 17.14. If it be replyed they were members of the Church of Israel yet not circumcised: therfore we may be members now though not baptised. I deny the consequence, unlesse that any can shew the like case and president of the sup<g ref="char:EOLhyphen"/>ply of miraculous Sacraments, to serve in their room; which
+<pb n="40" facs="tcp:206958:25"/> when they can, we will then grant that those new meanes from God may serve to effect the same thing which till then we must be contented with the rule of his Word, namely, to have the Church constituted by baptising of believers in ordinary cases, and not otherwise.</p>
+            <p>Thirdly you say, <hi>That which is but an adjunct to a thing cannot be the forme of it: but Baptisme is but an adiunct of a Church:</hi> Ergo.</p>
+            <p>To which I answere, this argument lyeth not against my question, as I have stated it, because that which is but an adjunct may be a meanes of forming and constituting of the thing to which it is adjoyned: so Baptisme being administred upon be<g ref="char:EOLhyphen"/>lievers, may be a meanes to constitute and forme them into a true visible Church-state.</p>
+            <p>Fourthly, you say, <hi>That which is the seale of the Covenant, cannot be the forme of the Church: but Baptisme is the seale of the Covenant,</hi>
+            </p>
+            <p>Ergo.</p>
+            <p>To which I answere, That which is the seale of the Covenant may be a meanes to constitute and put the Church into an out<g ref="char:EOLhyphen"/>ward visible form, for the which I have spoken somwhat before in the 5. Argument: unto which I referre the Reader for brevi<g ref="char:EOLhyphen"/>ties sake.</p>
+            <p>Fifthly, you say, <hi>That which remaines when a man is no Church-member and is not to be administred to restore him unto Membership, that cannot be the forme of the Church.</hi>
+            </p>
+            <p>But Baptisme remaines when a man is no Church-member, <hi>Ergo.</hi>
+            </p>
+            <p>To which I answer denying the assumption, but yet because many seeme to stumble at this argument most, I will indeavour a more satisfactory answer.</p>
+            <p>That by which a person professeth Christ with, is that onely by which he truely professeth Baptisme and Membership with the Church and body of Christ; whereupon it followeth, that upon the same reason that any person is dispossessed of Membership with the Church, upon the same reason he must be concluded to be dispossessed of Christ and of Baptisme also, and the reason is because he is to be concluded destitute of all the ends for which Baptisme is appointed, yea and the grounds also upon which it is administred; in that he possesseth not
+<pb n="33" facs="tcp:206958:25"/> Christ, he possesseth neither ground of Baptisme, nor end, and therefore no true being of Baptisme it selfe.</p>
+            <p>As for the restoring of a person to Membership, we are to note that repentance is but an effect of the same faith by which he possessed Christ at first, and by which he had right to, and possessed Baptisme in deed, and in truth, though it did seem o<g ref="char:EOLhyphen"/>therwise to us whiles error or sin did appeare to be predominate in him, which repentance is that by which he is to be restor'd to communion with the Church againe after Excommunication, which if he repents not, and so hath no such effect of faith ap<g ref="char:EOLhyphen"/>pearing in him, by which he did apprehend Christ at first, then it doth appeare that he never did possesse Christ the gro nd of Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tisme, and consequently not Baptisme in its true being: for though men may deceive themselves, and may deceive other men like themselves, yet they cannot deceive God, whose Ordi<g ref="char:EOLhyphen"/>nance it is, and upon whom Baptisme, and all other divine Or<g ref="char:EOLhyphen"/>dinances have their dependance, who hath ordained that onely believers should be baptised, which if therefore men have no faith though they pretend to have faith, then have they no right to Baptisme before God, who knoweth them to be destitute of faith. Yet because they seeme to men to whom the power of such administration is committed, to have faith, they therfore are bound to baptise them; yet ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h this baptisme no true be<g ref="char:EOLhyphen"/>ing from God, unlesse and untill the parties do believe in deed and in truth, as they seeme to do by their profession.</p>
+            <p>By all which it doth appeare plainly, that in <hi>every Excommu<g ref="char:EOLhyphen"/>nicate person,</hi> there is a necessary and unavoydable mistake of him first or last, either therefore first he was no believer, and so had no right to baptisme, and so baptisme had no true being in him, although he seemed to have faith, or else secondly he is a belie<g ref="char:EOLhyphen"/>ver, when Excommunicate, and hath Christ and baptisme in its true being, although now through the prevalency of error or sinne he seemed to have no faith.</p>
+            <p>Therefore from hence it followeth that as a man falleth from his faith, he falleth from his baptisme too, and as he returnes to his faith so he returnes to his baptisme againe also; then if he seemeth to fall from his faith and doth it not really then so likewise he seemeth to fall from his baptisme also. Then like<g ref="char:EOLhyphen"/>wise
+<pb n="42" facs="tcp:206958:26"/> if he fall wholly from the faith indeed, which he professed to have, as a man may do, then doth he fall wholly from his baptisme indeed, and shall never have benefit by it.</p>
+            <p>From whence I reason, as a man cleaveth to his baptisme so he cleaveth to the Church which is constituted by it, but as a man forsakes his Baptisme so hee forsakes the Church.</p>
+            <p>But he that forsakes the ground and ends of baptisme forsakes baptisme which is administred upon those grounds, and apoin<g ref="char:EOLhyphen"/>ted for those ends. <hi>Ergo</hi>
+            </p>
+            <p>Baptisme cannot be concluded to remaine when a man is no Church Member indeed and in truth.</p>
+            <p>Secondly I reason, he that returneth to his baptisme, return<g ref="char:EOLhyphen"/>eth to the Church which is constituted by it.</p>
+            <p>But he that returneth to the grounds and ends for which it is appointed and upon which it is administred, returneth to baptisme in respect of its true being. <hi>Ergo</hi>
+            </p>
+            <p>Hee that returneth to baptisme returneth to the Church which is constituted by it.</p>
+            <p>And thus have I done with the negative arguments, and now I come to the affirmative, first therefore you say, <hi>That an outward Covenant acted betweene God and a company of believers to become one and anothers, and so the like amongst themselves is the forme of a Church.</hi>
+            </p>
+            <p>To which I answer, that the Covenant of God makes the Church, I grant, but that any can be concluded to have an out<g ref="char:EOLhyphen"/>ward being in the Covenant of the Gospell now in the time of the Gospell without baptisme, is it which I deny, and require you to prove, having formerly proved the contrary.</p>
+            <p>But whereas you speake of a company of believers acting a Covenant to become one anothers amongst themselves to be the forme of the Church.</p>
+            <p>To which I answer, that by the same reason, that if a Cove<g ref="char:EOLhyphen"/>nant acted to becom one &amp; anothers amongst themselves, should be the forme of the Church without being baptised for the pre<g ref="char:EOLhyphen"/>sent, by the same reason they may receive the forme of the Church without all the administrations of the Gospell for the future, which I conceive would be absurd to affirme.</p>
+            <p>Secondly, neither is there any warrant that God hath appoin<g ref="char:EOLhyphen"/>ted
+<pb n="43" facs="tcp:206958:26"/> men to <hi>act any such covenant</hi> for any <hi>such end,</hi> and therefore so to do is will-worship, vanity, the invention of man, and mens inventions in Gods worship are plaine superstitions and flat breaches of the second commandement, <hi>Thou shalt not make to thy selfe, &amp;c.</hi>
+            </p>
+            <p>And therefore if it be the forme of the Church, it must needs be a Superstitious Church, which is formed by such a <hi>Superstiti<g ref="char:EOLhyphen"/>ous action.</hi>
+            </p>
+            <p>Thirdly, a Covenant acted by believers to become one and anothers amongst themselves, may be with ignorance both of the nature and duties of a true Church, as is proved by the presupposition of it to be the forme of the Church without baptisme, how then should it be the forme of the Church, for if they be ignorant that the visible Church must subsist of bap<g ref="char:EOLhyphen"/>tised ones, how can it be avoyded, but that they are ignorant of the nature of the true visible Church? and being ignorant of the nature thereof, they are necessarily ignorant of the duties there<g ref="char:EOLhyphen"/>of: for if they conceive that persons should be imployed in the services of relation in the Church unbaptised, then they be ig<g ref="char:EOLhyphen"/>norant of the duties of the Church, because all the externall services of relation must flow from the visible union and relati<g ref="char:EOLhyphen"/>on made in baptisme, 1 <hi>Cor.</hi> 1.13. <hi>chap.</hi> 12.13. <hi>Rom.</hi> 6.3, 4, 5. <hi>Gal.</hi> 3.26, 27. <hi>Eph.</hi> 5.26. Col. 2.12.20. compared <hi>chap.</hi> 3.1.2. <hi>Heb.</hi> 10.22, 23, 24, 25. therefore it cannot be the forme of Christs true visible Church.</p>
+            <p>But let us examine your proofes, you say <hi>First, if the Kingdome of Heaven that es the Church-state that we now have be the same that the Iewes had, then what was the forme of that is the sorme of this.</hi>
+            </p>
+            <p>To which I answer, that if the Church-state we have now, be not the same with theirs, then the forme of that is not the forme of this: and then your argument is grounded upon an if; that is upon nothing: but the Church-state we have now, is not the same that the Jewes had, that being constituted of a naturall seed, according to the course of a naturall generation, this being constituted of a Spirituall seed according to Gods gracious ef<g ref="char:EOLhyphen"/>fectuall working by the powerfull preaching of the Gospell by Spirituall regeneration, <hi>Act.</hi> 2.41. <hi>Ergo</hi>
+            </p>
+            <p>Secondly, whereas you said a little before, that a Covenant
+<pb facs="tcp:206958:27"/> acted by believers to become one anothers amongst themselves to be the forme of the Church, and then argue from the State of the Jewes to prove this forme which never did forme them<g ref="char:EOLhyphen"/>selves so this; therefore surely tends to overthrow your selfe, and to argue from your proofe to overthrow your principle.</p>
+            <p>But you say, <hi>That the forme of the Jewish Church-state was such a Covenant as is by you above expressed, this you cleare by</hi> 4 <hi>particulars as you say first their entrance into it with Abraham and his seed, was by a visible and outward Covenant, into which Reprobates aswell as Elect were admitted, as</hi> Ishmaell <hi>and</hi> Esaw, Gen. 17. <hi>and Circumcision was not the Covenant but a token of the Covenant,</hi> ver. 11</p>
+            <p>First I answer, this proues not the forme of the Church to be such a Covenant as is by you above expressed, acted by a com<g ref="char:EOLhyphen"/>pany of believers to become one and anothers amongst them<g ref="char:EOLhyphen"/>selves, for <hi>Abraham</hi> and his seed, Reprobates aswell as Elect enter into it: Now <hi>Abraham</hi> was but one believer, and <hi>Ishmaell</hi> his seed which entred with him, you instance to be a Re<g ref="char:EOLhyphen"/>probate.</p>
+            <p>Secondly, I answer, that Circumcision was not only a token of the Covenant but a part of the Covenant it selfe, being that whereby the parties circumcised were bound to keepe the whole Law, <hi>Gal.</hi> 5.3. and therefore God saith, <hi>Gen.</hi> 17, 10. This is my Covenant let every Man-child be circumcised, and ver. 13 He that is borne in thine house, and he that is bought with thy money, must needs be circumcised, so shall my Covenant be in your flesh: but the uncircumcised Man-child, in whose flesh the fore-skin is not circumcised, even that person shall be cut off from his people, because he hath broken my Covenant: therefore the Covenant here spoken of was such as was entred into by Circumcision, and not such as was acted by a company of believers to become one and anothers amongst themselves to be the forme of the Church</p>
+            <p>But you would seeme to cleare it by a <hi>second particular</hi> (viz) <hi>by the establishment of it in the plaine of</hi> Moab.</p>
+            <p>
+               <hi>But this establishment was by a Church-Covena<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> Deut. 29.10.16. <hi>in which they avouched God to be their God, and God avouched they were his people,</hi> Deut. 26.17, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8. <hi>ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther could circumcision be any in<g ref="char:EOLhyphen"/>gredient here, because they had not circumcised any of</hi> 40. <hi>yeares ever
+<pb n="37" facs="tcp:206958:27"/> since they came out of Egypt; nor did they circumcise any till after</hi> Mo<g ref="char:EOLhyphen"/>ses <hi>and</hi> Joshua, <hi>had brought them through Iordan into the Land of Ca<g ref="char:EOLhyphen"/>naan,</hi> Joshua. 5.5.</p>
+            <p>To this I answer, that this covenant which was now establish<g ref="char:EOLhyphen"/>ed, with the people of Israel in the plaine of <hi>Moab,</hi> was the same covenant which was made with <hi>Abram, Isaac,</hi> and <hi>Jacob,</hi> v. 13. which they entered into with God in the behalfe of them<g ref="char:EOLhyphen"/>selves, and their posterity by being circumcised, <hi>Gen.</hi> 17.10, 11, 12, 13, 14 compared 23, 24, 25, 26, 27. <hi>Act.</hi> 7, 8. and therefore being in the covenant before, they did not begin to be a Church now, and therefore this proves not that a covenant acted by a company of believers to become one and anothers, should be it, that should constitute them to be a Church now.</p>
+            <p>Secondly, whereas you say, <hi>neither was circumcision any ingredi<g ref="char:EOLhyphen"/>ent here, because they had not circumcised any of</hi> 40. <hi>yeares,</hi> I answer, I conceive notwithstanding, that circumcision was an ingredi<g ref="char:EOLhyphen"/>ent in their parents who thereby entered into a covenant for themselves, and these children even as the covenant here speci<g ref="char:EOLhyphen"/>fied, did comprehend the posterity to come, ver. 15.</p>
+            <p>Thirdly, the case of the Israelites was extraordinary, having speciall dispensation from God, in the supply of miraculous Sacraments, and signes of his grace as meanes of manifestation, in speciall of the testification of the covenant, as leading them through the red Sea dry, giving the cloudy pillar by day, and the Pillar of fire by night, to guide and defend them miraculously, causing their clothes and shoes to remaine sutable to their bo<g ref="char:EOLhyphen"/>dies and feete, without new supplies, and without waxing old. who were fed miraculously without bread, even by <hi>Manna,</hi> and water out of the Rock, that they might thereby know that he was the Lord their God, <hi>Deut.</hi> 29.5.6. Whiles their travailes ne<g ref="char:EOLhyphen"/>cessarily required the forbearance of Circumcision, and the Passeover, which necessity if it had not been; it should not have been so dispenced with, <hi>Numbers</hi> 9 13. <hi>Gen.</hi> 17 14. which ne<g ref="char:EOLhyphen"/>cessity, seeing it came to passe by Gods commanding them to journey in the Wildernesse, therefore did in the roome of Cir<g ref="char:EOLhyphen"/>cumcision for that time, supply with such miraculous Sacra<g ref="char:EOLhyphen"/>ments which are no rules in ordinary cases, as may appeare by their cessation assoone as they came into the Land of <hi>Canaan,</hi>
+               <pb n="46" facs="tcp:206958:28"/> who then were presently led by ordinary rules, as circumcision, and the Passeover, <hi>Iosh.</hi> 5. wherefore in ordinary cases circumci<g ref="char:EOLhyphen"/>sion was the distinction of Jew and Gentiles, and the meanes of the constitution of the Church of <hi>Israel, Gen.</hi> 17.10.11, 12 13, 14. <hi>Exodus</hi> 12.48. <hi>Act.</hi> 7, 8. <hi>Rom.</hi> 3.1, 2. <hi>Ezek.</hi> 44.9. <hi>Act.</hi> 11.2, 3. <hi>chap.</hi> 16.1.3. <hi>Rom.</hi> 2.25, 26, 27, 28, 29. <hi>chap.</hi> 3.30. and 4. <hi>Ephes.</hi> 2.11. <hi>Phil.</hi> 3.2, 3.5. <hi>Col.</hi> 2.13. 1 <hi>Sam.</hi> 17.26 36.</p>
+            <p>Hereupon it followeth, that although the Church of <hi>Israel</hi> were a people in covenant with God, yet the way of entrance in<g ref="char:EOLhyphen"/>to this covenant visibly, and so the constitution of this Church was ordinarily circumcision. Therefore as a covenant acted by a company of believers to become one and anothers, was not the forme of that Church then, but a speciall communication of Gods covenant, by circumcision ordinarily, with the whole Nation believers and Infidells, and whosoever of any Nation that would be circumcised, and come to <hi>Ierusalem</hi> to worship; much lesse hath it any consequence to prove it so now.</p>
+            <p>
+               <hi>But the the third particular by which you would cleare it, is by the Iewes, renewing themselves after some Apostacy,</hi> 2 Chron. 15.12, 13.16. <hi>and</hi> 34.30.31. <hi>Neh.</hi> 9.38.10.1. From whence you reason.</p>
+            <p>
+               <hi>That without which they could not stand in a right Church-estate, that is the forme of the Church, but without the renewall of their cove<g ref="char:EOLhyphen"/>nant, they could not stand in a right and pure Church-Estate. Ergo.</hi>
+            </p>
+            <p>To the assumption I answer, that the Jewes made a covenant to seeke the God of their Fathers, I grant; that they did well in so doing, I grant also; but they could not be in a Church-state without so doing I deny, and you have not proved, and I will prove the contrary: first because they were the Church of God before. Secondly, that which was now renewed had a being be<g ref="char:EOLhyphen"/>fore, and the making of this covenant was but animating, and in<g ref="char:EOLhyphen"/>abling them to doe that which they were ingaged, and bound to doe before by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir circumcision, <hi>G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</hi> 5.3 and therefore as this renuing of their cov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nant is not by your Argument proved to be the forme of the Church, then much lesse hath it any con<g ref="char:EOLhyphen"/>sequence, to prove that a covenant acted by a company of be<g ref="char:EOLhyphen"/>lievers to become one and anothers amongst themselves, is the forme of a Church now.</p>
+            <pb n="47" facs="tcp:206958:28"/>
+            <p>But the fourth particular by which you would cleare it, <hi>is from their deissolution,</hi> from whence you reason thus.</p>
+            <p>
+               <hi>That which being taken away makes them cease to be a Church, that is, the forme of the Church, but the dissolving of the covenant is the making of them cease to be a Church. Ergo,</hi>
+            </p>
+            <p>
+               <hi>That the taking away of the covenant maketh them cease to be a Church</hi> you say, <hi>is cleare from</hi> Zach. 11.10.14. <hi>Whence it was prophesied off, and from the New Testament, whence it is shewed how it is accomplish<g ref="char:EOLhyphen"/>ed after the death of Christ.</hi>
+            </p>
+            <p>To which I answer, first that the covenant of grace is eternall, the things thereof remaining unshaken, the Kingdom that comes by it cannot be shaken, <hi>Heb.</hi> 12.27, 28. the Ordinance of Bap<g ref="char:EOLhyphen"/>tisme which belongs unto it, the fruit and benefit of it is eternall; the Church which is constituted by it is never dissolved, but remaines to all eternity for it to be administred onely to be<g ref="char:EOLhyphen"/>lievers, <hi>Act.</hi> 8.37. And Christ saith, <hi>hee that believeth in him shall never die. Iohn</hi> 11.26:</p>
+            <p>Secondly, as the taking away the covenant makes the Church to cease: so it onely proves the covenant to be the ground of the Church, and the Church only to have a being, as it is stated up<g ref="char:EOLhyphen"/>on that ground, and that is in participating in the covenant, and not otherwise: now the question being of the visible Church, then there must needs be a visible participation of the covenant, or otherwise there can be no visible being; now there was no vi<g ref="char:EOLhyphen"/>sible participation of the covenant made with the people of <hi>Is<g ref="char:EOLhyphen"/>rael,,</hi> before the comming of Christ ordinarily, and by ordi<g ref="char:EOLhyphen"/>nance before circumcision, neither is there any visible partici<g ref="char:EOLhyphen"/>pation of the covenant since Christ, by order of appointment without, or before Baptisme: therefore circumcision then, and Baptisme now must be it, by which they are constituted, or con<g ref="char:EOLhyphen"/>cluded to have a visible being in the covenant, and consequent<g ref="char:EOLhyphen"/>ly the Church to have a visible being, in respect of this visible participation in the covenant, whereupon it followeth, that if the covenant be dissolved or ceaseth, or be taken away, needs must the circumcision or baptisme, which is the ordinance of participation be dissolved, cease, or bee taken away, whereby their relation or being a visible member doth consist.</p>
+            <p>Now then, seeing that the covenant which was before Christ
+<pb n="40" facs="tcp:206958:29"/> did cermonially lead to Christ, and is in that respect dissolved, ceased and taken away; then circumcision by which persons had visible participa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion thereof is also dissolved, ceased and taken away, and so cons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quently the visible Church of the Jewes ceas<g ref="char:EOLhyphen"/>ed as was prophecied, <hi>Zach.</hi> 11.10.14. and was accomplished at the death of Christ at which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime the partition wall was bro<g ref="char:EOLhyphen"/>ken, <hi>Act.</hi> 2.41.10.28. <hi>Ephe.</hi> 2, 13, 14 15.</p>
+            <p>And also seeing the covenant since Christ is ratified by the death and bloud of the Lord Jesus the Testator, cannot be re<g ref="char:EOLhyphen"/>moved, dissolved, ceased and taken away (as you your selfe af<g ref="char:EOLhyphen"/>firme in your third proposition, and fourth period) then Bap<g ref="char:EOLhyphen"/>tisme administred upon believers, by which they have visible participation thereof, cannot be removed, dissolved, ceased, and taken a way.</p>
+            <p>Therfore the true visible Church now in respect of the ground of it, cannot be removed, dissolved cease, or be taken away.</p>
+            <p>Onely two exceptions need explication: first the true Church may possibly die, and none survive them in the same visible state <hi>Ergo,</hi> the true visible Church may be removed, dissolved, ceased, and taken away.</p>
+            <p>Secondly, persons may seeme to be, and not be true members of the true visible Church, which afterwards may shew them<g ref="char:EOLhyphen"/>selves otherwise, and so the Church may cease.</p>
+            <p>To the first I answer, that the cessation of the Church by death is but onely to our outward view, for to our Faith it is no more ceased, then their relation to the covenant is ceased, and the relation which the faithfull have in, and to the covenant when they die doth not cease; no more then the covenant it selfe, whereupon such a relation is grounded doth, which is as firme as God himselfe the mak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of the covenant is.</p>
+            <p>Secondly as the outward view of the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hurch</hi> ceaseth, so the out<g ref="char:EOLhyphen"/>ward view of their relation to the Church by Baptisme ceaseth also, by which they had visible participation with the body of Christ and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herefore this excep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion hinders not, but that the true visible Church of the New Testament constituted by the Baptism<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of believers, by which they have visible participati<g ref="char:EOLhyphen"/>on cannot be removed, dissolved, ceased or taken away.</p>
+            <p>To the second exception I answer, that the covenant cannot
+<pb n="49" facs="tcp:206958:29"/> properly be said to be dissolved, or taken away from such as only seemed to be in the covenant, and were not indeed and in truth in it, but when they manifest themselves to bee what they are, they doe declare that they never were in covenant with Christ at all, and therefore the dissolving of the Church, in respect of hypocrites, is not by dissolving or taking of the covenant from them, but by discovering of them to be such as never had any true right to Baptisme, which therefore hath now no true being in them, and consequently were never in the covenant, 1 <hi>Iohn</hi> 2 19.</p>
+            <p>From all which it doth appeare that the covenant (no not of God himselfe) cannot be the forme of the Church, but only the ground whereupon the Church is stated, and it is constitu<g ref="char:EOLhyphen"/>ted by participation, and visibly by visible participation, and that is onely Baptisme, and the continuance in the Church, is the continuance of the manifestation of the same participation, possessed by Baptisme, therefore Baptisme of believers is the constitution of the visible Church of Christ.</p>
+            <p>But from these 4. particulars, you argue, <hi>That if an outward Cove<g ref="char:EOLhyphen"/>nant was the forme of the Church under the old Testament, then is it the forme of the Churches under the new Testament: But the former is true.</hi>
+            </p>
+            <p>Ergo.</p>
+            <p>To which I answer, denying both antecedent and consequent also: for if the Covenant of God himselfe is not the forme of the Church of the old Testament (but only the ground upon which the Church was stated) much lesse can it be said that an outward Covenant acted by the people of Israel, a company of them to become one and ano<g ref="char:EOLhyphen"/>thers, is the form of the Church: but least of all doth it prove such a thing to forme the Church now: But the former is manifested by what is above said: <hi>Ergo.</hi>
+            </p>
+            <p>Your arguments from the new Testament follow. First, but you further prove it from the new Testament, you say from <hi>Mat.</hi> 18.20. <hi>That it is a company not baptising themselves, but gathering themselus together in his name, where the word used doth properly and commonly signifie a Church assembling or synagoguising,</hi> as <hi>Joh.</hi> 20.19. <hi>Act.</hi> 4.31. &amp; 11.26.13.44. &amp; 14.27. &amp; 1 <hi>Cor.</hi> 15.6.30. &amp; 20.8.15.8.</p>
+            <p>To which I answere, that though it be a company not baptising themselves, yet do none of the Scriptures prove that a company of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nbaptised persons have this name of true visible Church given un<g ref="char:EOLhyphen"/>to
+<pb n="50" facs="tcp:206958:30"/> them: and therfore the assemb ing of persons meerly is not the cause of that denomination in the Scripture sence: but when their Baptisme is the cause of their assembling, wherby they do assemble, in the name of Christ, in whose name they are Baptised, that is the reason why the Scripture affords them the denomination of Christs true visible Church; for they were the assemblies of D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sciples, and Disciples were all Baptised, being first taught, <hi>Ioh.</hi> 4.1.2. <hi>Mat.</hi> 28.18.</p>
+            <p>You say, <hi>Looke what makes a member of a Church to be a member, or no member, that makes a Church to be a Church or no Church: and so that is the forme of it, there is the same reason of the whole that is of every part.</hi>
+            </p>
+            <p>But <hi>the making, or dismembering, or restoring of a member, is by a Co<g ref="char:EOLhyphen"/>venant (acted, to become one and anothers)</hi> Esay 56 4.6.</p>
+            <p>To which I answer, that the Covenant of God is the ground upon which the Church and every member therof is stated, I grant, and have formerly proved: but that a Covenant acted by any to become one and a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>others amongst themselves, should forme the member or Church, either is by me denyed; neither doth Esay 56.4 6 prove any such thing, for it only saith, The Eunuches that take hold of my Co<g ref="char:EOLhyphen"/>venant, and the stranger that embraceth my Covenant, that is were Circumcised, and performeth the duties which they were bound to performe by Circumcision, Gal. 5, 3. should have a place in his house, and not by acting a Covenant to become one and anothers, and neg<g ref="char:EOLhyphen"/>lecting of Circumcision.</p>
+            <p n="3">3. You say <hi>The comparison is of a Church with a candlestick.</hi> Rev. 1.12.20. <hi>looke what is the forme of a candlesticke, the same by proportion is the form of a Church; as the matter signifies the matter of a Chu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch pro<g ref="char:EOLhyphen"/>portionably.</hi>
+            </p>
+            <p>But <hi>the form of a candlesticke is the joyning toegether the shaft and the branches, which signifies Christ and many members united together, which cannot be but by agreement or Covenant.</hi>
+            </p>
+            <p>To which I answer, I grant the comparison and the propor<g ref="char:EOLhyphen"/>tion also, but that this cannot be but by an outward agreement or covenant acted by a company of believers to become one and anothers amongst themselves, is the thing that I deny; for persons may be united to Christ by faith and baptisme, and so stated in the Covenant of Grace, and members of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he visible Church proportionably, like as the forme of a Candlestick is
+<pb n="51" facs="tcp:206958:30"/> the joyning together the shaft and the branches.</p>
+            <p>Fourthly, You say, <hi>If the removing of the Candlestick, and so the unchurching of them be by dissolving of the Covenant and their fellowship as to them,</hi> Zach. 11.10 14. <hi>by dissipation, then that was the forme of it.</hi>
+            </p>
+            <p>
+               <hi>But removing of the Candlestick is the dissolving of the Covenant and their fellowship thereby; as to them by dissipation,</hi> Zach. 11.10.14.</p>
+            <p>
+               <hi>Therefore that was the forme of it.</hi>
+            </p>
+            <p>To which I answer, denying the second proposition, because the everlast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Covenant of the new Testament established by the blood of Christ, cannot be sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, removed, dissolved, but remaineth for ever, <hi>Heb.</hi> 12.27 28 13 20. and therefore the Covenant upon which the Church is stated, now doth differ from that which was before the comming of C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rist, upon which the Iewish Church was stated seeing that was d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uble, but this is undissoluble, <hi>Heb.</hi> 8.13. and there<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdom of heaven was shaken and taken away, <hi>Zac.</hi> 11.10.15. <hi>Heb.</hi> 12.26, 27, 28. <hi>Mat.</hi> 21.43. <hi>Hag.</hi> 2 7. and this King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome cannot be shak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and taken away in respect of the ground and foundation upon which it is built, <hi>Heb.</hi> 12.28. <hi>Mat.</hi> 16, 18, 19.</p>
+            <p>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as for the removing of the Candlesticke, and so the unchurch<g ref="char:EOLhyphen"/>ing the of them, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is only by a discovery or laying open, or manifesta<g ref="char:EOLhyphen"/>tion of a people to bee void of any participation of the Covenant w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>merly they professed, were esteemed, and had a name to hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 1 <hi>J h.</hi> 2.19. <hi>Rev.</hi> 3.1. and not the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssolving or taking away of a Covenant from them, which onc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they had and injoyed, much lesse is it the disso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving the outward Covenant, acted by a covenant of believers, to become one and an oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs amongst themselves: The u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>churching of them, which as the acting of it is will-worsh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p, and no o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinance o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and so the church so constituted meerly Anti<g ref="char:EOLhyphen"/>christian, so the dissolving of such C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>venant cannot be the unchur<g ref="char:EOLhyphen"/>ching of any true churches, because Ie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us Christ hath no Churches, in true visible being so constituted.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:206958:31"/>
+            <head>Some Principall matters handled in this BOOKE.</head>
+            <list>
+               <item>
+                  <hi>1</hi> THAT the old Covenant is one and the same as well be<g ref="char:EOLhyphen"/>tween the time of <hi>Abraham</hi> and <hi>Moses</hi> as between the time of <hi>Moses and</hi> Christ, page <hi>3, 4.</hi>
+               </item>
+               <item>
+                  <hi>2</hi> The typicall nature of the old Covenant with the cessation thereof described. page, <hi>11, 12. 15, 16.</hi>
+               </item>
+               <item>
+                  <hi>3</hi> That the Covenant now since Christ is not the same that was be fore with <hi>Abrahams</hi> posterity in the flesh. page <hi>12. 14, 15, 16, 17, 18, 19.</hi>
+               </item>
+               <item>
+                  <hi>4</hi> That the grace of God is never the more straitned, but in<g ref="char:EOLhyphen"/>larged to our seed after the flesh, though they be not in the Co<g ref="char:EOLhyphen"/>venant, now as they are our seed according to the flesh. p <hi>19. 20.</hi>
+               </item>
+               <item>
+                  <hi>5</hi> That the circumcisiing of Infants, nor yet the Old Covenant hath no consequence to prove the baptising Infants. page, <hi>21, 22, 23, 24, 29. 30. 33, 34.</hi>
+               </item>
+               <item>
+                  <hi>6</hi> That only baptising of beleevers is the meanes of constituting true visible Churches in the times of the Gospell. page, <hi>36, 37, 38, 39, 40, 41, 42.</hi>
+               </item>
+               <item>
+                  <hi>7</hi> That a Covenant acted to become one and anothers among themselves cannot be the forme of the visible Church. page, <hi>43.</hi> to the end.</item>
+            </list>
+            <pb facs="tcp:206958:31"/>
+         </div>
+      </back>
+   </text>
+</TEI>
